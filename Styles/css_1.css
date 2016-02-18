@@ -29,7 +29,7 @@ ul#summer-drinks li {
 
 
 .background-image{position:absolute;top:0;right:0;z-index:0;}
-.background-image img{width:auto;height:auto;}
+.background-image img{width:1365;height:auto;}
 @media only screen and (min-width:1651px) and (max-width:1900px){ .background-image{top:0;right:0%;}}
 @media only screen and (min-width:1301px) and (max-width:1650px){.background-image{top:0;right:0%;}}
 @media only screen and (min-width:1025px) and (max-width:1300px){.background-image{top:0;right:0%;}}
