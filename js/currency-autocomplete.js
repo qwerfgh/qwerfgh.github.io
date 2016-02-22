@@ -2,6 +2,7 @@ $(function(){
   var currencies = [
     { value: 'Bangalore', data: 'Bangalore' },
     { value: 'Mumbai', data: 'Mumbai' },
+    { value: 'Indore', data: 'Indore' },
     /*{ value: 'Algerian dinar', data: 'DZD' },
     { value: 'European euro', data: 'EUR' },
     { value: 'Angolan kwanza', data: 'AOA' },
