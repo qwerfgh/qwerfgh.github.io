@@ -45,12 +45,12 @@ ul#summer-drinks li {
 
 
 @media only screen and (max-width:1024px){ #searchfield form .biginput {
-  width: 280px; height: 20px	; padding: 0 10px; background-color: #fff; border: 1px solid #c8c8c8; border-radius: 3px; color: #aeaeae; font-weight:normal; font-size: 1.0em; -webkit-transition: all 0.2s linear; -moz-transition: all 0.2s linear; transition: all 0.2s linear;
+  width: 180px; height: 20px	; padding: 0 10px; background-color: #fff; border: 1px solid #c8c8c8; border-radius: 3px; color: #aeaeae; font-weight:normal; font-size: 1.0em; -webkit-transition: all 0.2s linear; -moz-transition: all 0.2s linear; transition: all 0.2s linear;
   } }
 
 
 @media only screen and (max-width:767px){ #searchfield form .biginput {
-  width: 280px; height: 20px	; padding: 0 10px; background-color: #fff; border: 1px solid #c8c8c8; border-radius: 3px; color: #aeaeae; font-weight:normal; font-size: 1.0em; -webkit-transition: all 0.2s linear; -moz-transition: all 0.2s linear; transition: all 0.2s linear;
+  width: 180px; height: 20px	; padding: 0 10px; background-color: #fff; border: 1px solid #c8c8c8; border-radius: 3px; color: #aeaeae; font-weight:normal; font-size: 1.0em; -webkit-transition: all 0.2s linear; -moz-transition: all 0.2s linear; transition: all 0.2s linear;
   } }
 
 
