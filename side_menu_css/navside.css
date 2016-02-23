@@ -168,7 +168,7 @@
 /* Navbar Menu Component */
 
 .menu {
-  width: 100px;
+  width: 200px;
   height: 100%;
   background: #333;
   position: fixed;
@@ -280,7 +280,7 @@
 
 .nav-toggle {
   position: fixed;
-  top: 0px;
+  top: -10px;
   right: 180px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
@@ -310,7 +310,7 @@
 .nav-toggle span.fa-times:hover { color: #fff; }
 
 .nav-toggle.show-nav {
-  top: 0px;
+  top: -10px;
   right: 180px;
 }
 
