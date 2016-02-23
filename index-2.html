@@ -32,6 +32,11 @@
 <script type="text/javascript" src="js/currency-autocomplete.js"></script>
 
 <!--  for side Menu -->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
@@ -57,6 +62,92 @@ $(document).ready(function() {
 </head>
 <body class="html front not-logged-in no-sidebars page-node page-node- page-node-2110770 node-type-home-page site-name-hidden site-name-zicasso zictheme bs-n bb-n mb-n rc-0 rct-0 role-anonymous-user form-single-submit-processed"> 
 
+
+<div id="site-wrapper;">
+      <nav class="menu" role="navigation">
+      <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="#">Login</a></li>
+        </ul>
+  </nav>
+      <a href="#" class="nav-toggle"><span class="fa fa-bars"></span></a>
+   
+</div>
+<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script> 
+<script>
+// Vars
+
+var wrapper    = $("#site-wrapper"),
+    menu       = $(".menu"),
+    menuLinks  = $(".menu ul li a"),
+    toggle     = $(".nav-toggle"),
+    toggleIcon = $(".nav-toggle span");
+
+function toggleThatNav() {
+  if (menu.hasClass("show-nav")) {
+    if (!Modernizr.csstransforms) {
+      menu.removeClass("show-nav");
+      toggle.removeClass("show-nav");
+      menu.animate({
+        right: "-=300"
+      }, 500);
+      toggle.animate({
+        right: "-=300"
+      }, 500);
+    } else {
+      menu.removeClass("show-nav");
+      toggle.removeClass("show-nav");
+    }
+    
+  } else {
+    if (!Modernizr.csstransforms) {
+      menu.addClass("show-nav");
+      toggle.addClass("show-nav");
+      menu.css("right", "0px");
+      toggle.css("right", "330px");
+    } else {
+      menu.addClass("show-nav");
+      toggle.addClass("show-nav");
+    } 
+  }
+}
+
+function changeToggleClass() {
+  toggleIcon.toggleClass("fa-times");
+  toggleIcon.toggleClass("fa-bars");
+}
+
+$(function() {
+  toggle.on("click", function(e) {
+    e.stopPropagation();
+    e.preventDefault();
+    toggleThatNav();
+    changeToggleClass();
+  });
+    // Keyboard Esc event support
+  $(document).keyup(function(e) {
+    if (e.keyCode == 27) {
+      if (menu.hasClass("show-nav")) {
+        if (!Modernizr.csstransforms) {
+          menu.removeClass("show-nav");
+          toggle.removeClass("show-nav");
+          menu.css("right", "-300px");
+          toggle.css("right", "30px");
+          changeToggleClass();
+        } else {
+          menu.removeClass("show-nav");
+          toggle.removeClass("show-nav");
+          changeToggleClass();
+        }
+      }
+    } 
+  });
+});
+</script>
+
+<!--
 <nav id="navside">
   <ul id="sidebar-menu">
     <li class="active"><a href="#">Home</a></li>
@@ -66,10 +157,10 @@ $(document).ready(function() {
     <li><a href="#">About</a></li>
   </ul>
 </nav>
-  
+-->
 
 <!--  For Header (Black Strip above)  -->
- <div id="header-wrapper">
+<div id="header-wrapper">
 <div class="container clearfix">
 <header class="clearfix with-logo" role="banner">
 <div id="branding" class="branding-elements clearfix"><div id="logo" style="position: relative; left: 0px;">
@@ -115,7 +206,7 @@ $(document).ready(function() {
 </div>
 
 <div class="background-image">
-<img alt="" src="./Styles/homepage-3.jpg"> 
+<img alt="" src="./Styles/homepage-3.jpg">  
 
 
 
