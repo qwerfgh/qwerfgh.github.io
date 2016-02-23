@@ -280,7 +280,7 @@
 
 .nav-toggle {
   position: fixed;
-  top: -10px;
+  top: -30px;
   right: 180px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
@@ -310,7 +310,7 @@
 .nav-toggle span.fa-times:hover { color: #fff; }
 
 .nav-toggle.show-nav {
-  top: -10px;
+  top: -50px;
   right: 180px;
 }
 
