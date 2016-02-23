@@ -281,7 +281,7 @@
 .nav-toggle {
   position: fixed;
   top: 0px;
-  right: 80px;
+  right: 180px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   -webkit-transform: translateX(0);
@@ -311,7 +311,7 @@
 
 .nav-toggle.show-nav {
   top: 0px;
-  right: 80px;
+  right: 180px;
 }
 
 }
