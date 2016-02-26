@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Sans Pro'), local('SourceSansPro-Regular'), 
+  url(https://dfcy2g1llb1yf.cloudfront.net/resources_version/desktop/style/live/web-fonts-https/source-sans-pro/SourceSansPro.woff2?cache=220220150714),
+  url(https://dfcy2g1llb1yf.cloudfront.net/resources_version/desktop/style/live/web-fonts-https/source-sans-pro/SourceSansPro-Regular.ttf?cache=220220150714);
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'), 
+  url(https://dfcy2g1llb1yf.cloudfront.net/resources_version/desktop/style/live/web-fonts-https/source-sans-pro/sourcesansprobold.woff2?cache=220220150714) format('woff2'),
+  url(https://dfcy2g1llb1yf.cloudfront.net/resources_version/desktop/style/live/web-fonts-https/source-sans-pro/SourceSansPro-Regular.ttf?cache=220220150714) format('woff2');
+}

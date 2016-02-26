@@ -1,11 +1,10 @@
 $(function(){
   var currencies = [
-    { value: 'Bangalore', data: 'Bangalore' },
-    { value: 'Mumbai', data: 'Mumbai' },
-    { value: 'Indore', data: 'Indore' },
-    /*{ value: 'Algerian dinar', data: 'DZD' },
-    { value: 'European euro', data: 'EUR' },
-    { value: 'Angolan kwanza', data: 'AOA' },
+    { value: 'Mumbai', data: 'MUM' },
+    { value: 'Indore', data: 'IND' },
+    { value: 'Bangalore', data: 'BAN' },
+    { value: 'Delhi', data: 'DEL' },
+    /*{ value: 'Angolan kwanza', data: 'AOA' },
     { value: 'East Caribbean dollar', data: 'XCD' },
     { value: 'Argentine peso', data: 'ARS' },
     { value: 'Armenian dram', data: 'AMD' },
