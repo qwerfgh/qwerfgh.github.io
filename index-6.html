@@ -30,6 +30,7 @@
   <link type="text/css" rel="stylesheet" media="all" href="./Styles6/spl_autocomplete.css">
   <link type="text/css" rel="stylesheet" media="all" href="./Styles6/popup-drop-question.css">
   <link type="text/css" rel="stylesheet" media="all" href="./Styles6/video.css">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 
   
   <script async="" src="./Styles6/analytics.js"></script>
@@ -113,13 +114,20 @@ joguru = {"continents_key":null,"allowed_types":["establishment","airport","amus
 		});
 	</script>
 
-
-</head>
+<!--  Side Menu Bar -->
+    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <link href="./Side_Menu/estilos.css" rel="stylesheet"/>
+  </head>
 <body class="">
-	
-<!-- Upper Menu option  -->	
-<header id="HeaderLogin" class="main-top">
+
+<!--  Upper Menu Bar -->	
+<header id="HeaderLogin" class="navbar-fixed-top"> 
+<!--<header id="HeaderLogin" class="main-top">  -->
 	<nav class="navbar navbar-default" role="navigation">
+		</nav>
+</header>
+
+<header class="navbar-fixed-top">
 		<div class="container">
 	    	<!-- Brand and toggle get grouped for better mobile display -->
 			<div class="navbar-header">
@@ -145,15 +153,6 @@ joguru = {"continents_key":null,"allowed_types":["establishment","airport","amus
 					</li>
 					<li>
 						<a href="https://www.triphobo.com/tripplans" title="Explore Trip Plans">Trip Plans</a>
-					</li>
-					<li>
-						<a href="https://www.triphobo.com/tours" title="Explore Tours">Tours</a>
-					</li>
-					<li>
-						<a href="https://www.triphobo.com/hotels" title="Explore Hotels">Hotels</a>
-					</li>
-					<!--<li >
-						<a href="/help" title="Help">Help</a>
 					</li>-->
 	      		</ul>
       				        
@@ -166,9 +165,31 @@ joguru = {"continents_key":null,"allowed_types":["establishment","airport","amus
 
 					</ul>
 				</div>
-					</div><!-- /.container-fluid -->
-	</nav>
+				<div id="mobile-nav2"></div>
+			<nav1>
+			<ul class="menu2">
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Works</a></li>
+				<li><a href="#">Services</a></li>
+				<li><a href="#">Blog</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Contact</a></li>
+			  </ul>
+			</nav1>
+			<script src="./Side_Menu/mostrar_nav.js"></script>
+
+	<!-- Side Menu -->
+		</div><!-- /.container-fluid -->
+
 </header>
+
+<!-- Changing the opacity of Upper Menu Bar-->
+<script>
+var $logo = $('.navbar-default');
+$(document).scroll(function() {
+    $logo.css({opacity: $(this).scrollTop() > 100? "1":"0.4"}); 
+});
+</script>
 
 
 <div class="new-homepage">
@@ -267,7 +288,7 @@ joguru = {"continents_key":null,"allowed_types":["establishment","airport","amus
 			<div class="row">
 				<div class="col-lg-12">
 					<h2 class="how-its-work">
-						<span>How it works</span>
+						<span>Why travelin1000?</span>
 					</h2>
 					<div class="row">
 					  <div class="col-sm-4 col-md-4 col-xs-4">
