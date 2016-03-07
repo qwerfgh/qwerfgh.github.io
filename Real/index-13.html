@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<!-- saved from url=(0025)https://www.triphobo.com/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+   <meta name="google-site-verification" content="mafW1op4Vq1Mw_986OA9BVRHC92DOEeM6kpR3e1d7wk">
+   <meta name="HandheldFriendly" content="True">
+   <meta name="MobileOptimized" content="320">
+   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+   <title>TRAVEL IN 1000 TOCHANGE </title>
+      <meta name="description" content="Plan your trip itinerary on TripHobo, the #1 trip planner with 14k cities, 400k attractions, things to do and 700k hotels! Plan your vacation, enjoy your holiday">
+        <meta name="keywords" content="Triphobo, Trip Hobo, Joguru, Trip Planner, Hobo, Free, Best, Planner, Itinerary, Organizer, Trip, Travel, Vacation, Map, Maker, Builder, Iternary, Iteniary, Itenarary, Create, Online, Tour, Holiday, Planning, Tool, Website">
+  <meta name="robots" content="index, follow"><meta name="author" content="TripHobo">  <!-- Loader CSS for IE less than 9 -->
+   
+  <link type="text/css" rel="stylesheet" media="all" href="./Styles6/font-awesome.css">
+  <link type="text/css" rel="stylesheet" media="all" href="./Styles6/font-awesome-css.css">
+  <link type="text/css" rel="stylesheet" media="all" href="./Styles6/header.css">
+  <link type="text/css" rel="stylesheet" media="all" href="./Styles6/footer.css">
+  <link type="text/css" rel="stylesheet" media="all" href="./Styles6/pop-structure-universal.css">
+  <link type="text/css" rel="stylesheet" media="all" href="./Styles6/jquery.scrollbar.css">
+  <link type="text/css" rel="stylesheet" media="all" href="./Styles6/loaders.css">
+  <link type="text/css" rel="stylesheet" media="all" href="./Styles6/bootstrap3.2.css">
+  <link type="text/css" rel="stylesheet" media="all" href="./Styles6/common.css">
+  <link type="text/css" rel="stylesheet" media="all" href="./Styles6/containers.css">
+  <link type="text/css" rel="stylesheet" media="all" href="./Styles6/style.css">
+  <link type="text/css" rel="stylesheet" media="all" href="./Styles6/sign-in-popup.css">
+  <link type="text/css" rel="stylesheet" media="all" href="./Styles6/sign-up-popup.css">
+  <link type="text/css" rel="stylesheet" media="all" href="./Styles6/new-homepage.css">
+  <link type="text/css" rel="stylesheet" media="all" href="./Styles6/spl_autocomplete.css">
+  <link type="text/css" rel="stylesheet" media="all" href="./Styles6/popup-drop-question.css">
+  <link type="text/css" rel="stylesheet" media="all" href="./Styles6/video.css">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+  
+  <script async="" src="./Styles6/analytics.js"></script>
+  <script type="text/javascript" src="./Styles6/jquery.js"></script>
+  <style type="text/css"></style><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+joguru = {"continents_key":null,"allowed_types":["establishment","airport","amusement_park","aquarium","art_gallery","church","city_hall","hindu_temple","mosque","museum","night_club","park","stadium","zoo"],"continents":null,"continent_country":"50b3171577a295472000004b","loaded":{"styles":null,"js":null},"base":"https:\/\/www.triphobo.com\/","ssl_base":"https:\/\/www.triphobo.com\/","js_base":"https:\/\/dn1w8s6xszn0j.cloudfront.net\/","includes_path":"live","mediaBase":"https:\/\/dn1w8s6xszn0j.cloudfront.net\/media","libraries_base":"https:\/\/www.triphobo.com\/resource\/libraries","cache_bust":"2545454444333","facebook":{"config":{"app_id":"121643921248148","channel":"https:\/\/www.triphobo.com\/fb_channel.php?","permissions":["email"]}},"cookie":{"prefix":"","domain":".triphobo.com","path":"\/","secure":false},"assets":{"images":"https:\/\/dn1w8s6xszn0j.cloudfront.net\/resources_version\/desktop\/img\/"},"assets_new":{"images":"https:\/\/dn1w8s6xszn0j.cloudfront.net\/resources_version\/desktop\/img\/"},"session_id":"","author_id":"","itinerary_title_prefix":"Trip to","track_pages":true,"upload_max_file_size":2100000,"upload_max_file_size_msg":"Allowed Max File Size is 2 MB.","no_trip_plan_msg":"You've not added any Trip Plan as a favorite.","itinearary_day_limit":60,"itinearary_to_city_limit":10,"itinearary_default_stay_hrs":48,"itinearary_start_date_limit":" +365 days","user_location":{"location":""},"user_location_info":""};
+//--><!]]>
+</script>  
+
+    <link href="./Search_Bar/datepicker.css" rel="stylesheet">
+    <script src="./Search_Bar/jquery.js"></script> 
+    <script src="./Search_Bar/bootstrap-datepicker.js"></script> 
+    <script type="text/javascript" src="js/jquery.autocomplete.min.js"></script>
+    <script type="text/javascript" src="js/currency-autocomplete.js"></script>
+	<script>
+	if (top.location != location) {
+    top.location.href = document.location.href ;
+  }
+		$(function(){
+			window.prettyPrint && prettyPrint();
+			$('#dp1').datepicker({
+				format: 'mm-dd-yyyy'
+			});
+			$('#dp2').datepicker();
+			$('#dp3').datepicker();
+			$('#dp3').datepicker();
+			$('#dpYears').datepicker();
+			$('#dpMonths').datepicker();
+			
+			
+			var startDate = new Date(2012,1,20);
+			var endDate = new Date(2012,1,25);
+			$('#dp4').datepicker()
+				.on('changeDate', function(ev){
+					if (ev.date.valueOf() > endDate.valueOf()){
+						$('#alert').show().find('strong').text('The start date can not be greater then the end date');
+					} else {
+						$('#alert').hide();
+						startDate = new Date(ev.date);
+						$('#startDate').text($('#dp4').data('date'));
+					}
+					$('#dp4').datepicker('hide');
+				});
+			$('#dp5').datepicker()
+				.on('changeDate', function(ev){
+					if (ev.date.valueOf() < startDate.valueOf()){
+						$('#alert').show().find('strong').text('The end date can not be less then the start date');
+					} else {
+						$('#alert').hide();
+						endDate = new Date(ev.date);
+						$('#endDate').text($('#dp5').data('date'));
+					}
+					$('#dp5').datepicker('hide');
+				});
+
+        // disabling dates
+        var nowTemp = new Date();
+        var now = new Date(nowTemp.getFullYear(), nowTemp.getMonth(), nowTemp.getDate(), 0, 0, 0, 0);
+
+        var checkin = $('#dpd1').datepicker({
+          onRender: function(date) {
+            return date.valueOf() < now.valueOf() ? 'disabled' : '';
+          }
+        }).on('changeDate', function(ev) {
+          if (ev.date.valueOf() > checkout.date.valueOf()) {
+            var newDate = new Date(ev.date)
+            newDate.setDate(newDate.getDate() + 1);
+            checkout.setValue(newDate);
+          }
+          checkin.hide();
+          $('#dpd2')[0].focus();
+        }).data('datepicker');
+        var checkout = $('#dpd2').datepicker({
+          onRender: function(date) {
+            return date.valueOf() <= checkin.date.valueOf() ? 'disabled' : '';
+          }
+        }).on('changeDate', function(ev) {
+          checkout.hide();
+        }).data('datepicker');
+		});
+	</script>
+
+<!--  Side Menu Bar -->
+    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <link href="./Side_Menu/estilos.css" rel="stylesheet"/>
+
+<script src="./Side_Menu/jquery.min.js"></script>
+<script src="./Side_Menu/common.min.js"></script> 
+
+  </head>
+<body class="">
+
+<!--  Upper Menu Bar -->	
+<header id="HeaderLogin" class="navbar-fixed-top"> 
+<!--<header id="HeaderLogin" class="main-top">  -->
+	<nav class="navbar navbar-default" role="navigation">
+		</nav>
+</header>
+
+<script>
+	var $logo = $('.navbar-default');
+	$(document).scroll(function() {
+		$logo.css({opacity: $(this).scrollTop() > 10? "1":"0.4"}); 
+	});
+</script>
+
+<!-- Changing the opacity of Upper Menu Bar-->
+
+<header class="navbar-fixed-top">
+		<div class="container">
+	    	<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" id="header-menu-navigation-bar" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="menu-nav-bar-up-arrow"><i class="fa fa-caret-up"></i></span>
+				</button>
+
+				<!-- TOCHANGE -- Add a logo here <a title="TripHobo Trip Planner" class="navbar-brand" href="https://www.triphobo.com/"><img src="./Styles6/logo-of-triphobo.png" alt="TripHobo Trip Planner" title="TripHobo Trip Planner"></a>  -->
+			</div>
+
+	    	<!-- Collect the nav links, forms, and other content for toggling -->
+	    	<div class="collapse navbar-collapse menu-middle-section" id="bs-example-navbar-collapse-1">
+				      		<ul class="nav navbar-nav ">
+					<li>
+						<a href="https://www.triphobo.com/create-your-itinerary" title="Create Trip Plan">travelin1000</a>
+					</li>
+					<!-- <li>
+						<a href="https://www.triphobo.com/places" title="Explore Destinations">Things To Do</a>
+					</li>
+					<li>
+						<a href="https://www.triphobo.com/tripplans" title="Explore Trip Plans">Trip Plans</a>
+					</li>-->
+	      		</ul>
+      				        
+	    	</div><!-- /.navbar-collapse -->
+
+				<div class="without-login">
+					<ul>
+						<li><a href="https://www.triphobo.com/user/signUp" class="btn btn-success">Log In</a></li>
+						<li><a href="https://www.triphobo.com/user/signin">My Trips</a></li>
+					</ul>
+				</div>
+			<!-- <div class="mobile-nav3"></div>
+			<nav1>
+			<ul class="menu2">
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Works</a></li>
+				<li><a href="#">Services</a></li>
+				<li><a href="#">Blog</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Contact</a></li>
+			  </ul>
+			</nav1>-->
+	<div class="menu-btn">
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
+<nav class="gNav1" role="navigation2">
+  <ul class="pc-only3">
+    <li class="toTop"><a>HOME</a></li>
+    <li class="toAbout"><a>ABOUT US</a></li>
+    <li class="toWorks"><a>MY TRIP</a></li>
+    <li class="toSpecial"><a>DESTINATION</a></li>
+    <li class="toContact"><a>CONTACT US</a></li>
+  </ul>
+</nav> 
+			
+
+	<!-- Side Menu -->
+		</div><!-- /.container-fluid -->
+
+</header>
+
+
+<div class="new-homepage">
+	<div class="home-page-bg">
+		<div class="select-city-section-bg">
+			<!-- <form method="post" action="/travel-itineraries/search/" name="js-spl-autocomplete-form" id="js-spl-autocomplete-form"> -->
+                <div class="create-plan-content">
+                	 <div class="row"> 
+		<div class="places-search-wrapper">
+			<div class="search-n-popular-cities form-group">
+				
+<!--<form class="spl-autocomplete-form" id="js-spl-autocomplete-form" action="https://www.triphobo.com/search/city" method="post">
+	<div class="que-srch-cont">
+				<span class="srch-cont ">
+			<input id="spl-autocomplete-search" autocomplete="off" type="search" placeholder="Enter country or city" class="form-control spl-autocomplete-search question-srch " data-message="" data-criteria="{&quot;reload&quot;:false,&quot;autocomplete_url&quot;:&quot;\/autocomplete\/itineraryPlace?type=itinerary_select_city&amp;parents=2&quot;,&quot;limit&quot;:&quot;1&quot;,&quot;resultOnSelect&quot;:true,&quot;inCase&quot;:&quot;home_search&quot;}" data-title="City">
+		    
+			<div id="js-suggestions">
+				<ul></ul>
+			</div>
+		</span>
+		
+			</div>  
+
+	<div class="btn-down">
+		<span class="city-btnp2" id="selected-item-container"></span>
+	</div>
+
+</form>  -->
+			<!-- <script id="suggestion-template" type="text/template">
+				<li class='item' data-id='{{id}}' data-record ='{{record}}'><i class='incomplete-txt fa fa-map-marker'> </i>{{name}} <p>{{dsc}} </p></li>
+			</script>
+
+			<script id="selected-item-template" type="text/template">
+				<div class="btn btn-default btn-sm search-keywords" onclick="return removeCity('{{id}}','{{name}}')">
+					<span class="glyphicon glyphicon-remove remove-item"></span>
+					<span class="srch-ctxt search-place-name">{{name}}<i class="fa fa-times"></i></span>
+					<input class="remove-input" type="hidden" name='terms[]' value="{{id}}" />
+				</div>
+			</script> -->
+
+			
+          		<div id="searchfield">
+					<form><input type="text" name="currency" class="biginput" id="autocomplete" placeholder="Destination">
+
+				<input type="text" class="span2" value="" id="dpd1" placeholder="Check in">
+				<input type="text" class="span2" value="" id="dpd2" placeholder="Check out"></form>
+						<button id="submit_location" type="submit" class="searchbar__submit btn btn-primary btn-large">Search</button>
+				<div class="Help_Me_Choose">
+						<a href="https://www.triphobo.com/create-your-itinerary" title="Help Me Choose">Help Me Choose a Destination</a>
+				</div>
+
+				</div><!-- @end #searchfield -->
+
+
+			</div>
+		
+		</div>
+		</div>              
+
+	</div> 
+	</div>  
+
+
+		<div class="tranparent-bg">
+			<div class="video-section">
+				<img alt="" src="./Styles/homepage-3.jpg"> 
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="city-add-section">
+							<div class="city-add-section-top">
+								<h1>Experience Amazing Destinations <br> In Just 1000$</h1>
+								<!-- <p>Create a fully customised, multi-city trip plan for free!</p> -->
+								<!-- <button onclick="showOverlayVideo()" class="hide"><i class="fa fa-youtube-play"></i>Watch Video</button> -->
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+	<div class="homepage-content">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<h2 class="how-its-work">
+						<span>Why travelin1000?</span>
+					</h2>
+
+
+					<br><br>
+					<div class="img">
+						<img alt="World" src="./Images/Why travelin1000/World.png"> 
+						<img alt="World" src="./Images/Why travelin1000/Phone.png"> 
+					<div class="desc">Travel anywhere in the world with 1000$ in your pocket  </div>
+					<div class="desc2">24*7 support from our partners</div>
+					</div>
+					
+					<br><br><br>
+					<div class="img2">
+						<img alt="Unmatched_Destination_Expertise" src="./Images/Why travelin1000/Unmatched_Destination_Expertise.jpg"> 
+						<div class="desc3">Unmatched destination expertise  </div>
+					</div>
+					<div class="img3">
+						<img alt="Customize_Trips" src="./Images/Why travelin1000/Customize_Trips.jpg"> 
+						<div class="desc4">Customize and personalize your trips</div>
+					</div>
+					<br><br><br>
+					<div class="img4">
+						<img alt="Ease_Of_Planning" src="./Images/Why travelin1000/Ease_of_Planning.png"> 
+						<img alt="Verified_Ratings" src="./Images/Why travelin1000/Verified_Rating.jpg"> 
+					<div class="desc5">Ease of Planning  </div>
+					<div class="desc6">Verified Ratings and Reviews</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	</div>
+</div>
+
+<!--<script>
+	var $logo = $('.how-its-work');
+	$(document).scroll(function() {
+	$logo.css({opacity: $(this).scrollTop() > 10? "1":"0"}); 
+});
+</script>
+
+<script>
+	var $logo = $('.img');
+	$(document).scroll(function() {
+	$logo.css({opacity: $(this).scrollTop() > 300? "1":"0"}); 
+});
+</script>  -->
+
+<br><br><br><br><br><br><br>
+<div id="footer" class="new-footer">
+      <div class="foot-wrapper">
+
+      <div class="footer-bottom container">
+        <div id="footer-top" class="footer-top-section">
+          <div class="">              
+                
+                <p class="footer-social-link-row">
+                	<a title="Facebook" alt="Facebook" href="http://www.facebook.com/Triphobo" target="_blank">
+                    <i class="fa fa-facebook"></i>
+			            </a>
+                  <a title="Linked In" alt="Linked In" href="https://www.linkedin.com/company/triphobo" target="_blank">
+				            <i class="fa fa-linkedin"></i>
+			            </a>
+                  <a title="Twitter" alt="Twitter" href="https://twitter.com/TripHobo" target="_blank">
+                    <i class="fa fa-twitter"></i>
+			            </a>
+                  <a title="Pinterest" alt="Pinterest" href="http://www.pinterest.com/triphobo" target="_blank">
+                    <i class="fa fa-pinterest-p"></i>
+			            </a>
+                  <a title="Stumble Upon" alt="Stumble Upon" href="http://www.stumbleupon.com/stumbler/TripHobo" target="_blank">
+				            <i class="fa fa-stumbleupon"></i>
+			            </a>
+                    <link rel="publisher" href="https://plus.google.com/+TriphoboTravelItineraries">
+			            <a title="Google Plus" alt="Google Plus" href="https://plus.google.com/+TriphoboTravelItineraries" target="link">
+				            <i class="fa fa-google-plus"></i>
+			           </a>
+                </p>
+                <p class="footer-last-line">© 2016 QWERASG TOCHANGE , Inc. All rights reserved</p>
+            </div>
+          </div>
+      </div>
+      </div>
+    
+</div>
+
+<div id="overlay" style="display: none;"></div>
+<div id="modal" style="display: none;">
+	<div id="content-wrapper" class="content-wrapper">
+		<div id="content"></div><a class="js-monitor-me fa fa-times" data-message="close-modal" id="close" href="https://www.triphobo.com/#"></a>
+	</div>
+</div>
+</body></html>

@@ -1,0 +1,1183 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width" />
+        <meta name="robots" content="index,follow" />
+
+        <title>Auckland Trip Planner • Things to do in Auckland Vacation</title>
+
+        <link rel="apple-touch-icon" sizes="57x57" href="/res/images/assets/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/res/images/assets/apple-touch-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/res/images/assets/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/res/images/assets/apple-touch-icon-76x76.png">
+        <link rel="icon" type="image/png" href="/res/images/assets/favicon-32x32.png" sizes="32x32">
+                <link rel="icon" type="image/png" href="/res/images/assets/favicon-96x96.png" sizes="96x96">
+                <link rel="icon" type="image/png" href="/res/images/assets/favicon-16x16.png" sizes="16x16">
+                <link rel="shortcut icon" href="/res/images/assets/favicon.ico">
+            <link rel="manifest" href="/res/images/assets/manifest.json">
+        <meta name="msapplication-TileColor" content="#000000">
+        <meta name="msapplication-config" content="/res/images/assets/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
+
+        <meta name="description" content="Planning a trip to Auckland? Don't miss a thing - build a plan using Auckland trip planner and get the right plan for your holiday." />
+        <meta name="og:title" content="Auckland Trip Planner • Things to do in Auckland Vacation">
+        <meta name="og:site_name" content="Inspirock">
+        <meta name="og:image" content="http://static.inspirock.com/images/heroes/f/auckland.jpg">
+        <meta name="twitter:title" content="Auckland Trip Planner • Things to do in Auckland Vacation">
+        <meta name="twitter:image" content="http://static.inspirock.com/images/heroes/f/auckland.jpg">
+        <link rel="canonical" href="http://www.inspirock.com/new-zealand/auckland/d39695397" /><link rel='stylesheet' type='text/css' href='//fonts.googleapis.com/css?family=Lato:300,400,700,900,400italic,700italic,900italic%7CMerriweather:300,300italic,400'/>
+        <link rel="stylesheet" type="text/css" href='https://d3739tkyb5p5eh.cloudfront.net/2.5.3/res/css/commoncss.css'>
+        <link rel="stylesheet" type="text/css" href='https://d3739tkyb5p5eh.cloudfront.net/2.5.3/res/css/destinationSeoLanding.css'>
+        <script type="text/javascript">
+            
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-42855545-3', {'siteSpeedSampleRate': 100, 'cookieDomain': 'auto'});
+            ga('require', 'linkid', 'linkid.js');
+            ga('set', 'dimension1', '2.5.3'); 
+            ga('set', 'dimension2', 'N/A'); 
+            ga('set', 'dimension4', 'N/A'); 
+            ga('set', 'dimension5', 'Temporary'); 
+            ga('set', 'dimension6', '56d471319a324f4dc52e02db'); 
+            ga('set', 'dimension9', 'N/A'); 
+            ga('set', '&uid', '56d471319a324f4dc52e02db'); 
+            ga('set', 'dimension11', 'N/A'); 
+            ga('set', 'dimension12', 'N/A'); 
+            window.contextPath = "";
+            window.inspirockSecureDomain = ""; 
+            window.userLoggedIn = true;
+            window.registeredUserLoggedIn = false;
+            window.userId = "56d471319a324f4dc52e02db";
+            window.facebookAppId = '404106769689776';
+            
+            function planImgError(image) {
+                image.onerror = "";
+                image.src = window.contextPath + "/res/images/assets/no-image-graphic.jpg";
+                return true;
+            }
+           
+
+            
+            window.onunload = function() {};
+        </script>
+    </head>
+    <body class="">
+        <div id="fb-root"></div>
+
+        <div id="pageWrapper" class="page-wrapper">
+            <header class="page-header" id="pageHeader">
+    <div class="header-fixer">
+        <div class="header-contents clear-after">
+            <div class="header-logo">
+                <a href="/"><span class="product-title"><span class="bold">Inspi</span><span>rock</span><span class="tm"> TM</span></span></a>
+            </div>
+            <nav class="page-nav left">
+                    <ul>
+                        </ul>
+                </nav>
+                <nav class="page-nav right">
+                    <ul>
+                        <li>
+                            <a href="/trip-planner">
+                                <i class="fa fa-plus"></i>
+                                <span>New Plan</span>
+                            </a>
+                        </li>
+                        <li id="myPlans" data-dropdown-url="/myPlansDropdown">
+                            <a href="javascript:void(0);">
+                                <i class="fa fa-chevron-down"></i>
+                                <span>My Plans</span>
+                            </a>
+                        </li>
+                        <li id="userOptions" class="hidden">
+                            <a rel="nofollow" href="javascript:void(0);">
+                                <span class="name">Profile</span>
+                                <i class="fa fa-chevron-down"></i>
+                            </a>
+                            <div class="hidden">
+                                <div id="userDropdown">
+                                    <ul>
+                                        <li class="logout-button">log out</li>
+                                    </ul>
+                                </div>
+                                <form id="logoutForm" action="/logout" method="POST"></form></div>
+                        </li>
+                        <li id="userLogin" class="">
+                            <a rel="nofollow" class="login-button" href="/login">
+                                <i class="fa fa-user"></i>
+                                <span>Log In</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+    </div>
+</header>
+<div class="page-content  clear" id="pageContent">
+                <div itemscope itemtype="http://schema.org/City">
+            <div class="hero-header">
+    <div class="hero-header-bg"></div>
+    <div class="hero-header-content">
+        <div class="hero-header-image photo-attrib" style="background-image:url('http://static.inspirock.com/images/heroes/f/auckland.jpg');" 
+             data-artist=""
+             data-license=""
+             data-name=""
+             data-source-url=""></div>
+        
+        <div class="hero-title-wrapper">
+            <div class="hero-title-wrapper-2">
+                <div class="hero-title-area">
+                    <h1 class="hero-title"><span itemprop='name'>Auckland</span> Trip Planner</h1>
+                    <span class="on-inspirock-text">on Inspirock</span>
+                </div>
+                <div class="line2">Created by us &middot; Customized by you</div>
+            </div>
+        </div>
+    </div>
+<!--</div>-->
+</div><div class="destination-info" data-destination-id="39695397">
+    <div class="module-header">
+        <h2>
+            <span>Let's plan a trip to </span>
+            <span class="dest-name">Auckland</span>
+        </h2>
+    </div>
+    <div class="module-content clear-after">
+        <div class="detail-header">
+            <div class="where-in-world" vocab="http://schema.org/" typeof="BreadcrumbList">
+                    <span property="itemListElement" typeof="ListItem">
+                        <a class="ordinals clickable-text homecrumb" href="/" property="item" typeof="WebPage">
+                           <span property="name">Trip Planner</span>
+                        </a>
+                        <meta property="position" content="1"/>
+                    </span>
+                    :&nbsp;
+                    <span property="itemListElement" typeof="ListItem">
+                            <a class="ordinals clickable-text" href="/south-pacific/d11673" property="item" typeof="WebPage">
+                                <span property="name">South Pacific</span>
+                            </a>
+                            <meta property="position" content="2"/>
+                        </span>
+                        &nbsp;/&nbsp;
+                    <span property="itemListElement" typeof="ListItem">
+                            <a class="ordinals clickable-text" href="/new-zealand/d59695321" property="item" typeof="WebPage">
+                                <span property="name">New Zealand</span>
+                            </a>
+                            <meta property="position" content="3"/>
+                        </span>
+                        &nbsp;/&nbsp;
+                    <span property="itemListElement" typeof="ListItem">
+                            <a class="ordinals clickable-text" href="/new-zealand/north-island/d49695359" property="item" typeof="WebPage">
+                                <span property="name">North Island</span>
+                            </a>
+                            <meta property="position" content="4"/>
+                        </span>
+                        &nbsp;/&nbsp;
+                    <span property="itemListElement" typeof="ListItem">
+                            <a class="ordinals clickable-text" href="/new-zealand/auckland-region/d268820395" property="item" typeof="WebPage">
+                                <span property="name">Auckland Region</span>
+                            </a>
+                            <meta property="position" content="5"/>
+                        </span>
+                        &nbsp;/&nbsp;
+                    <span>Auckland</span>
+                    <span itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
+                        <meta itemprop="latitude" content="-36.84846" />
+                        <meta itemprop="longitude" content="174.76334" />
+                    </span>
+                </div>
+            <div class="rating">
+                    <div>
+                        <span class="rating-title">Inspirock Rating: </span>
+                        <div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:84.0%;"></span>
+</div>
+</div>
+                    <span class="rating-text" itemscope itemtype="http://data-vocabulary.org/Review-aggregate"><meta itemprop="itemreviewed" content="Auckland"/><span itemprop="rating">4.2</span>/5 based on <span itemprop="count">26,000</span>+ reviews for top 30 attractions</span></div>
+            <div>
+                    <span class="cat-title">Things to do: </span>
+                    <span class="categories">&nbsp;nature, sightseeing, museums</span>
+                </div>
+            <h3 class="tagline-manual">City of Sails</h3>
+            <div class="desc-wrapper">
+                <div class="desc nightstay" data-collapsed-lines="3" itemprop="description">
+                            <div>The largest and most populous city in New Zealand, Auckland combines a rich history and thriving contemporary culture in an abundance of museums, art galleries, and performance venues. Breathe deeply in the wealth of green spaces dotted around the cosmopolitan city, and head to the harbor to explore the main hub of activity and industry. Residents have a particular fondness for sailing, earning the city the nickname "City of Sails"; naturally, water sports and boat trips out into the Hauraki Gulf rank among the main Auckland attractions. With a major surge of modernization in recent years, Auckland boats some of the country's most spectacular architecture and an infrastructure befitting one of the world's most thriving urban areas.</div>
+                            </div>
+                        <span class="read-more hidden">read more <i class="fa fa-angle-down"></i></span>
+                        <span class="read-less hidden">read less <i class="fa fa-angle-up"></i></span>
+                    </div>
+            <div class="create-itin">Create a full itinerary - for free!</div>
+                <div class="destinations clear-after" data-max-plan-length="60">
+                    <div class="destination">
+                        <input type="text"
+                               class="domain shaded"
+                               data-id="39695397"
+                               data-label="Auckland"
+                               value="Auckland"
+                               data-coverage="USA, Europe, Asia & South Pacific"
+                               placeholder="Country, Region, or City"/>
+                        <div class="tip" data-show-text="<b>Current destinations:</b><br/><i>We are currently able to plan trips to</i><br/><b><i>USA, Europe, Asia & South Pacific.</i></b>"><i class="fa fa-question"></i></div>
+                    </div>
+                    <button class="cta-button medium start-trip-btn" data-is-valid-domain="true" data-destination-name="Auckland" data-destination-id="39695397">Start a trip</button>
+                </div>
+                </div>
+        <div class="photos">
+            <div class="slide-wrapper">
+                        <ul class="slides">
+                            <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Auckland Domain, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/49805939_-1219974452_1600x1059.jpg">
+                                            <img class="photo-attrib "
+                                                 alt="Auckland Domain, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/49805939_-1219974452_474x316.jpg"
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/49805939_-1219974452_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/49805939_-1219974452_474x316.jpg"
+                                                 data-pri="0"
+                                                 data-artist=""
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Auckland Domain"
+                                                 data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAA3sn2Kou30R0HVP70INuuAM48KIoLTBh0OSP5AQMS715m8ItqocAj3Wk2L9OKLkujD6f-aXdf_rvQxYY5qzRLkFciSnOit2_FEauzNMdxH1dWVa1DPYn2dq5Fvegh_rNTEhDVt5ywzyBjgQvYLlcT56TyGhSb3B55Q_bnR2Gz9EPbcnDqGGIw4g"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/auckland-domain/a49805939">Auckland Domain</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="author" content="Lynda W1"/>
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Sky Tower, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/29762315_2681717222_2288x1712.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Sky Tower, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/29762315_2681717222_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/29762315_2681717222_474x316.jpg"
+                                                 data-pri="0"
+                                                 data-artist="Lynda W1"
+                                                 data-license="CC"
+                                                 data-name="Sky Tower"
+                                                 data-source-url="https://www.flickr.com/photos/27948818@N05/2681717222"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/sky-tower/a29762315">Sky Tower</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Auckland Zoo, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/69764063_fb10152456888741984_2048x1356.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Auckland Zoo, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/69764063_fb10152456888741984_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/69764063_fb10152456888741984_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license=""
+                                                 data-name="Auckland Zoo"
+                                                 data-source-url=""/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/auckland-zoo/a69764063">Auckland Zoo</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Cornwall Park, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/99781809_-221325557_1600x1203.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Cornwall Park, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/99781809_-221325557_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/99781809_-221325557_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Cornwall Park"
+                                                 data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAqSsU054d8Ky3IJHQjVBKt_nHDjHjNtmaxikS-QRSMPONTDxT7Xpao2jGThNlnSSaaWyJTBCEHT1ZWWOw2HCTbKxOw23ZxJpYyXenCPIvuQ_VCksGCGpuD6hMU-YsoWN1EhD_SKIEDt7BD-S5CqmJe7t2GhTuq5jYfCkmq9GQqKcz5KwzDAvDOg"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/cornwall-park/a99781809">Cornwall Park</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="author" content="russellstreet"/>
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Auckland Museum, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/69777743_4628232761_3888x2592.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Auckland Museum, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/69777743_4628232761_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/69777743_4628232761_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist="russellstreet"
+                                                 data-license="CC by SA"
+                                                 data-name="Auckland Museum"
+                                                 data-source-url="https://www.flickr.com/photos/russellstreet/4628232761"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/auckland-museum/a69777743">Auckland Museum</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Auckland Art Gallery Toi o Tamaki, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/79764025_fb10154949998165714_1920x1281.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Auckland Art Gallery Toi o Tamaki, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/79764025_fb10154949998165714_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/79764025_fb10154949998165714_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license=""
+                                                 data-name="Auckland Art Gallery Toi o Tamaki"
+                                                 data-source-url=""/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/auckland-art-gallery-toi-o-tamaki/a79764025">Auckland Art Gallery Toi o Tamaki</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="New Zealand Maritime Museum, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/19762391_fb10152175973472804_2048x1536.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="New Zealand Maritime Museum, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/19762391_fb10152175973472804_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/19762391_fb10152175973472804_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license=""
+                                                 data-name="New Zealand Maritime Museum"
+                                                 data-source-url=""/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/new-zealand-maritime-museum/a19762391">New Zealand Maritime Museum</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Butterfly Creek, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/175168371_fb344080419014179_1920x1080.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Butterfly Creek, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/175168371_fb344080419014179_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/175168371_fb344080419014179_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license=""
+                                                 data-name="Butterfly Creek"
+                                                 data-source-url=""/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/butterfly-creek/a175168371">Butterfly Creek</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Viaduct Harbour, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/19819011_591464792_1600x919.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Viaduct Harbour, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/19819011_591464792_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/19819011_591464792_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Viaduct Harbour"
+                                                 data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAS_1nHNKERRUYKR3igsYB1TdzffMZn64Nr_Dpc3xBjcjFbmclWngz1Lu_u6UdowD6Q6FguxjgI6KJ4mZ5DHlPnXwWRnKBbsSfgyrfghXSyOLcY9THyXnDo-Vza53z4P7AEhC5SCTRQ3IAgPeRrCZxlMpjGhROsM2vizf1nUg4ZsFMiKBRCbaDrw"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/viaduct-harbour/a19819011">Viaduct Harbour</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Museum of Transport and Technology, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/49764139_fb545129208861699_1800x1200.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Museum of Transport and Technology, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/49764139_fb545129208861699_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/49764139_fb545129208861699_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license=""
+                                                 data-name="Museum of Transport and Technology"
+                                                 data-source-url=""/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/museum-of-transport-and-technology/a49764139">Museum of Transport and Technology</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Coast to Coast Tours, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/827961807_fb10152092247988029_985x692.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Coast to Coast Tours, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/827961807_fb10152092247988029_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/827961807_fb10152092247988029_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license=""
+                                                 data-name="Coast to Coast Tours"
+                                                 data-source-url=""/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/coast-to-coast-tours/a827961807">Coast to Coast Tours</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="One Tree Hill (Maungakiekie), Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/911421509_21620328_1600x1203.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="One Tree Hill (Maungakiekie), Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/911421509_21620328_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/911421509_21620328_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="One Tree Hill (Maungakiekie)"
+                                                 data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAZoNewigTPEL_JNNGFTCF5mxJSsSxTVdB1HU6ApjP1Q1fcVmCesTpyTEOMe-xcnPOQ6USkOTc5JoFBOToJSpRGwDXCQUKTGP_x7wO0kfj8kpTRCNz-GR3k1BoXGzP1jREEhDKsawlaVn-gbtgP5AslZFnGhRpW8JwVVr6xYG2ovb_WB6O7fEU8Q"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/one-tree-hill-maungakiekie/a911421509">One Tree Hill (Maungakiekie)</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="author" content="russellstreet"/>
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Matakana Village, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/529622901_5297943957_5502x3668.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Matakana Village, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/529622901_5297943957_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/529622901_5297943957_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist="russellstreet"
+                                                 data-license="CC by SA"
+                                                 data-name="Matakana Village"
+                                                 data-source-url="https://www.flickr.com/photos/russellstreet/5297943957"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/matakana-village/a529622901">Matakana Village</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Albert Park, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/611421243_480998727_1600x1185.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Albert Park, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/611421243_480998727_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/611421243_480998727_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Albert Park"
+                                                 data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAASl-JuPLDjeRrYdOcKY4cIKADE9Lfbs8GcGMslgX_p06BY1azIqrcNKmLFtui9c_vLrpb4srqku3Dgpd1xynEWRB56s_dloS4mQ9QFjsTfgQsrXrhQDel4apk9wG11-kCEhCcJwZHDfoAGGSpyk3jMQspGhTFmTWZBZaG6KsYyfTmjyttFYTvhA"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/albert-park/a611421243">Albert Park</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="author" content="DrewHeath"/>
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Tiritiri Matangi Island, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/5140664981_400510969_1920x1272.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Tiritiri Matangi Island, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/5140664981_400510969_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/5140664981_400510969_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist="DrewHeath"
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Tiritiri Matangi Island"
+                                                 data-source-url="https://upload.wikimedia.org/wikipedia/commons/0/0e/Tiritiri_Matangi_Wharf.jpg"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/tiritiri-matangi-island/a5140664981">Tiritiri Matangi Island</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="author" content="Michal Klajban"/>
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Hauraki Gulf, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/511421661_124225288_4000x3000.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Hauraki Gulf, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/511421661_124225288_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/511421661_124225288_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist="Michal Klajban"
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Hauraki Gulf"
+                                                 data-source-url="https://upload.wikimedia.org/wikipedia/commons/e/e8/Auckland%2C_Devonport%2C_Hauraki_Gulf_Maritime_Park_%281%29.JPG"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/hauraki-gulf/a511421661">Hauraki Gulf</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Kelly Tarlton's Sea Life Aquarium, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/59764101_-1837313409_1600x898.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Kelly Tarlton's Sea Life Aquarium, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/59764101_-1837313409_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/59764101_-1837313409_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Kelly Tarlton's Sea Life Aquarium"
+                                                 data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAA5aCR98t2lglARnv8Nw6bJAeejdwZjpowZPuU9lG4tfJWqnqHO4heYrW11r0ZT7Fatu-wpTiPbrhAITBrJA8XME5bR2YFN9rpp_7RFxiTWKhiyt3tktd_O8x647ivqwQAEhCh1U9ZGwYqKOQjlCu2fgbxGhSQjtlcP-6j3J-wjIbeLuLiq2Tyng"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/kelly-tarltons-sea-life-aquarium/a59764101">Kelly Tarlton's Sea Life Aquarium</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Auckland Harbour Bridge, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/510025541_1823422350_1600x1066.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Auckland Harbour Bridge, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/510025541_1823422350_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/510025541_1823422350_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Auckland Harbour Bridge"
+                                                 data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAqKaBELh9HbZgREAk_ChwMn9WUiphwZX47XUiCjtmzDPwjhS6HYHVBfU_05cavJAMDDu7JjN_eUxx174sQ_AhaXyclXiRZYYAtfqwMZvsNdo00PuXS9cozeylnK8QR07lEhC9wr5Shel3PpmL3f_cb-b6GhTg7C4m55bf72R0OTp62FU9shHoSw"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/auckland-harbour-bridge/a510025541">Auckland Harbour Bridge</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="author" content="111 Emergency from New Zealand"/>
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Devonport, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/862853407_1552912682_1600x1065.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Devonport, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/862853407_1552912682_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/862853407_1552912682_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist="111 Emergency from New Zealand"
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Devonport"
+                                                 data-source-url="https://upload.wikimedia.org/wikipedia/commons/8/83/Auckland_City_from_Mt_Victoria%2C_Devonport_-_Flickr_-_111_Emergency.jpg"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/devonport/a862853407">Devonport</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="author" content="Uploader."/>
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Ponsonby, Auckland, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/69812323_705839180_1600x1200.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Ponsonby, Auckland, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/69812323_705839180_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/69812323_705839180_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist="Uploader."
+                                                 data-license="Public"
+                                                 data-name="Ponsonby"
+                                                 data-source-url="https://upload.wikimedia.org/wikipedia/commons/8/86/Ponsonby_Houses_On_Jervois.jpg"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/auckland/ponsonby/a69812323">Ponsonby</a>
+                                    </li>
+                                </ul>
+                    </div>
+                    <div class="prev disabled">
+                            <span class="fa fa-angle-left"></span>
+                        </div>
+                        <div class="next">
+                            <span class="fa fa-angle-right"></span>
+                        </div>
+                    </div>
+    </div>
+</div><div class="things-to-do">
+    <div class="module-header">
+        <h2>
+            <span>Things to do in </span>
+            <span class="dest-name">Auckland</span>
+        </h2>
+    </div>
+    <div class="activities">
+            <div class="left-img"></div>
+            <h4>Tell us what you like to do and we'll make you a FREE custom plan:</h4>
+            <div class="interests clear-after">
+                <div class="column5"><input type="checkbox" id="activities-interestCulture" class="shaded" name="culture" value="true"/><label for="activities-interestCulture">Culture</label></div>
+                <div class="column5"><input type="checkbox" id="activities-interestOutdoor" class="shaded" name="outdoors" value="true"/><label for="activities-interestOutdoor">Outdoors</label></div>
+                <div class="column5"><input type="checkbox" id="activities-interestUnwind" class="shaded" name="unwind" value="true"/><label for="activities-interestUnwind">Relaxing</label></div>
+                <div class="column5"><input type="checkbox" id="activities-category10" class="shaded" name="categoryGroupNames" value="Beaches"/><label for="activities-category10">Beaches</label></div>
+                <div class="column5"><input type="checkbox" id="activities-category26" class="shaded" name="categoryGroupNames" value="Historic Sites"/><label for="activities-category26">Historic Sites</label></div>
+                <div class="column5"><input type="checkbox" id="activities-category16" class="shaded" name="categoryGroupNames" value="Museums"/><label for="activities-category16">Museums</label></div>
+                <div class="column5"><input type="checkbox" id="activities-category4" class="shaded" name="categoryGroupNames" value="Shopping"/><label for="activities-category4">Shopping</label></div>
+                </div>
+            <div class="start-plan">
+                <button class="cta-button small start-plan-btn" data-is-valid-domain="true" data-destination-name="Auckland" data-destination-id="39695397">START A PLAN</button>  
+            </div>
+        </div>
+    <div class="pages">
+        <div class="page">
+                        <span class="category">Nature</span>
+                        <a class="clickable-text" href="/new-zealand/auckland/tiritiri-matangi-island/a5140664981">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/5140664981_400510969_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="DrewHeath"
+                                             data-license="No Copyright Restrictions"
+                                             data-name="Tiritiri Matangi Island"
+                                             data-source-url="https://upload.wikimedia.org/wikipedia/commons/0/0e/Tiritiri_Matangi_Wharf.jpg">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Tiritiri Matangi Island</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:98.00000000000001%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/auckland/waitakere-ranges/a711421585">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/711421585_1794214183_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="Michal Klajban"
+                                             data-license="No Copyright Restrictions"
+                                             data-name="Waitakere Ranges"
+                                             data-source-url="https://upload.wikimedia.org/wikipedia/commons/3/3f/Waitakere_Ranges_Regional_Park%2C_New_Zealand.JPG">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Waitakere Ranges</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:98.00000000000001%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">3&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/auckland/hauraki-gulf/a511421661">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/511421661_124225288_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="Michal Klajban"
+                                             data-license="No Copyright Restrictions"
+                                             data-name="Hauraki Gulf"
+                                             data-source-url="https://upload.wikimedia.org/wikipedia/commons/e/e8/Auckland%2C_Devonport%2C_Hauraki_Gulf_Maritime_Park_%281%29.JPG">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Hauraki Gulf</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:96.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        </div> 
+                <div class="page">
+                        <span class="category">Tours</span>
+                        <a class="clickable-text" href="/new-zealand/auckland/playing-around-new-zealand/a5194246501">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/5194246501_fb10151151829736482_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license=""
+                                             data-name="Playing Around New Zealand"
+                                             data-source-url="">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Playing Around New Zealand</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:91.99999999999999%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">4&#8203;h</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/auckland/coast-to-coast-tours/a827961807">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/827961807_fb10152092247988029_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license=""
+                                             data-name="Coast to Coast Tours"
+                                             data-source-url="">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Coast to Coast Tours</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:90.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">3&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/auckland/glenbrook-vintage-railway/a945805429">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/945805429_8348231579_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="GPS 56"
+                                             data-license="CC"
+                                             data-name="Glenbrook Vintage Railway"
+                                             data-source-url="https://www.flickr.com/photos/91807507@N03/8348231579">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Glenbrook Vintage Railway</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:86.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">3&#8203;h</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        </div> 
+                <div class="page">
+                        <span class="category">Hidden Gems</span>
+                        <a class="clickable-text" href="/new-zealand/auckland/north-head-historic-reserve/a6169446903">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/6169446903_-1701712065_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="Ingolfson at English Wikipedia"
+                                             data-license="Public"
+                                             data-name="North Head Historic Reserve"
+                                             data-source-url="https://upload.wikimedia.org/wikipedia/commons/5/52/North_Head_South_Battery.jpg">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">North Head Historic Reserve</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:96.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">1&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/auckland/manukau-heads-lighthouse/a5130881121">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/5130881121_3970418166_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="russellstreet"
+                                             data-license="CC by SA"
+                                             data-name="Manukau Heads Lighthouse"
+                                             data-source-url="https://www.flickr.com/photos/russellstreet/3970418166">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Manukau Heads Lighthouse</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:91.99999999999999%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">1&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/auckland/st-patricks-cathedral/a478694619">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/478694619_-256655809_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license="No Copyright Restrictions"
+                                             data-name="St. Patrick's Cathedral"
+                                             data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAmlhIxzwYwEWC53cT2vvMNX9bGQq7dxx07KqIWhSA05YjqYDI4kuRI2gXY23bxsMVahyjRE6BkCxl5Y5-Rv_g6vInuxxu4QgczN3t-AIKbwVdc__myr1RI9g4YvHbfHCtEhBwREQ2Z4ZAoEjsFKW7S9uAGhQ9WPw3SAHuOTDH9766Y8HGa6qjXw">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">St. Patrick's Cathedral</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:90.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">1&#8203;h</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        </div> 
+                <div class="clear"></div>
+                <div class="page">
+                        <span class="category">Sightseeing</span>
+                        <a class="clickable-text" href="/new-zealand/auckland/viaduct-harbour/a19819011">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/19819011_591464792_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license="No Copyright Restrictions"
+                                             data-name="Viaduct Harbour"
+                                             data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAS_1nHNKERRUYKR3igsYB1TdzffMZn64Nr_Dpc3xBjcjFbmclWngz1Lu_u6UdowD6Q6FguxjgI6KJ4mZ5DHlPnXwWRnKBbsSfgyrfghXSyOLcY9THyXnDo-Vza53z4P7AEhC5SCTRQ3IAgPeRrCZxlMpjGhROsM2vizf1nUg4ZsFMiKBRCbaDrw">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Viaduct Harbour</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:90.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/auckland/one-tree-hill-maungakiekie/a911421509">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/911421509_21620328_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license="No Copyright Restrictions"
+                                             data-name="One Tree Hill (Maungakiekie)"
+                                             data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAZoNewigTPEL_JNNGFTCF5mxJSsSxTVdB1HU6ApjP1Q1fcVmCesTpyTEOMe-xcnPOQ6USkOTc5JoFBOToJSpRGwDXCQUKTGP_x7wO0kfj8kpTRCNz-GR3k1BoXGzP1jREEhDKsawlaVn-gbtgP5AslZFnGhRpW8JwVVr6xYG2ovb_WB6O7fEU8Q">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">One Tree Hill (Maungakiekie)</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:90.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/auckland/holy-trinity-cathedral/a822492087">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/822492087_2138336304_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license="No Copyright Restrictions"
+                                             data-name="Holy Trinity Cathedral"
+                                             data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAA7KprWphAUGUO3uEcIyqzQ7HQz8HjZ9VcDAxyIcoXalIkePT-GyTk0Qo1kGdqJBUR1xDtJhtfgi307Jze14l2YupiqTPbaZ2EPWeoYKxrgZeL9cjHKwt00Tq0NSTDmc7GEhBMWf-4r1EyV2nNBAw0k1V7GhTsFJsRVTyIr9GKwjz2NclaMrt7HQ">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Holy Trinity Cathedral</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:90.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">1&#8203;h</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        </div> 
+                <div class="page">
+                        <span class="category">Kid Friendly Attractions</span>
+                        <a class="clickable-text" href="/new-zealand/auckland/bethells-beach/a520215241">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/520215241_5531078798_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="Yortw"
+                                             data-license="CC"
+                                             data-name="Bethells Beach"
+                                             data-source-url="https://www.flickr.com/photos/yortw/5531078798">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Bethells Beach</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:91.99999999999999%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/auckland/sky-tower/a29762315">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/29762315_2681717222_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="Lynda W1"
+                                             data-license="CC"
+                                             data-name="Sky Tower"
+                                             data-source-url="https://www.flickr.com/photos/27948818@N05/2681717222">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Sky Tower</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:88.00000000000001%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">1&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/auckland/auckland-museum/a69777743">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/69777743_4628232761_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="russellstreet"
+                                             data-license="CC by SA"
+                                             data-name="Auckland Museum"
+                                             data-source-url="https://www.flickr.com/photos/russellstreet/4628232761">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Auckland Museum</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:84.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        </div> 
+                <div class="page">
+                        <span class="category">Outdoors</span>
+                        <a class="clickable-text" href="/new-zealand/auckland/adventure-capital-day-tours/a1152308751">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/1152308751_fb405193676165171_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license=""
+                                             data-name="Adventure Capital - Day Tours"
+                                             data-source-url="">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Adventure Capital - Day Tours</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:86.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">4&#8203;h</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/auckland/auckland-zoo/a69764063">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/69764063_fb10152456888741984_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license=""
+                                             data-name="Auckland Zoo"
+                                             data-source-url="">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Auckland Zoo</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:84.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">4&#8203;h</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/auckland/kiwi-valley-farm-park/a8131482547">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/8131482547_-289269129_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license="No Copyright Restrictions"
+                                             data-name="Kiwi Valley Farm Park"
+                                             data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAIEd6s367IESiiRi7F5bHkFZDG1ErXeTOy1HsQGlfVDaGUN1RZw_efmK8TU85wa7w4VGppR-hNcbFEwP92JoWmi6GBg0mpv0D390MBltAEauyhYTmOmpeS-SrrnDeVuG-EhAmVRiPdibX5yb0h7h6GVPkGhST1sag-udI7hqJjPyvvBz7rv8pgw">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Kiwi Valley Farm Park</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:81.99999999999999%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">1&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        </div> 
+                </div>
+    <div class="module-footer">
+            <div>
+                <span class="text">Don't Miss a Thing. See & Do More.</span>
+                <button class="cta-button small start-plan-activities" data-destination-id="39695397">START A PLAN</button>
+            </div>
+        </div>
+    </div>
+<div class="where-to-stay">
+                            <div class="avg-rate bg-stripe">
+                            <span class="txt">
+                                        <span>BEST PRICE GUARANTEED</span>
+                                        <br/>
+                                        <span>EASY CANCELLATION</span>
+                                        <br/>
+                                        <span class="powered">Powered by <span class="sheet booking-logo"></span></span>
+                                    </span>
+                                </div>
+                            <div class="stay-description">
+                                <h4>Where to stay in Auckland</h4>
+                                <div class="desc" data-collapsed-lines="3">As a modern and cosmopolitan city, Auckland benefits from a range of accommodations. From downtown luxury and boutique hotels to suburban bed and breakfasts, motels, and campsites, visitors of all persuasions and budgets can find something to suit them. A cluster of accommodations around the airport make convenient stops for those traveling late, while the popular harbor area offers rooms with a nice view. RV parks on the edge of town make a great basecamp for getting out into the surrounding landscape.</div>
+                                <span class="read-more hidden">read more <i class="fa fa-angle-down"></i></span>
+                                <span class="read-less hidden">read less <i class="fa fa-angle-up"></i></span>
+                                <div class="booking-area" data-country-code="NZ" data-name="Auckland" data-destination-name="Auckland" data-country-name="New Zealand"
+                                     data-booking-url="http://hotel.inspirock.com/searchresults.html?aid=808711&dest_id=-1506909&dest_type=city&si=ci&label=56d471319a324f4dc52e02db"
+                                     data-booking-checkin-date-format="[&checkin_monthday=]DD[&checkin_year_month=]YYYY[-]MM"
+                                     data-booking-checkout-date-format="[&checkout_monthday=]DD[&checkout_year_month=]YYYY[-]MM"
+                                     data-booking-nights-format="">
+                                    <div class="col">
+                                        <div class="title">Checking In:</div>
+                                        <input name="startDateWhereTostay" type="text" class="startDateWhereTostay startdatepicker shaded" placeholder="MM/DD/YYYY" readonly="readonly"/>
+                                        <span class="sheet calendar-icon orange"></span>
+                                    </div>
+                                    <div class="col">
+                                        <div class="title">Checking Out:</div>
+                                        <input name="endDateWhereTostay" type="text" class="endDateWhereTostay enddatepicker shaded" placeholder="MM/DD/YYYY" readonly="readonly" />
+                                        <span class="sheet calendar-icon orange"></span>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <button class="cta-button small find-hotel">Find a Hotel</button>
+                                </div>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    <div class="vacation-ideas nightstay">
+    <div class="module-header">
+        <span>Extend your </span>
+        <span class="dest-name">Holiday</span>
+    </div>
+    <div class="module-content clear-after mapdiv">
+        <div class="large-map" data-single-color="true"></div>
+        <div class="right-col">
+            <div class="title">Make it a multi-city trip:</div>
+            <div class="idea" data-destination-id="79696005" data-lat="-45.031162" data-lng="168.66264" data-name="Queenstown" data-photo="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/246780775_3273775515_135x90.jpg">
+                    <div>
+                        <a class="text-link" href="/new-zealand/queenstown/d79696005">Queenstown</a>
+                    </div>
+                    <div>adventure, fun & games, winter sports</div>
+                    <div>visit for : 3&nbsp;days</div>
+                </div>
+            <div class="idea" data-destination-id="89695587" data-lat="-38.13685" data-lng="176.24974" data-name="Rotorua" data-photo="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/39809777_-1574667251_135x90.jpg">
+                    <div>
+                        <a class="text-link" href="/new-zealand/rotorua/d89695587">Rotorua</a>
+                    </div>
+                    <div>nature, adventure, historic sites</div>
+                    <div>visit for : 3&nbsp;days</div>
+                </div>
+            <div class="idea" data-destination-id="69695663" data-lat="-38.68569" data-lng="176.0702" data-name="Taupo" data-photo="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/211421775_-983360936_135x90.jpg">
+                    <div>
+                        <a class="text-link" href="/new-zealand/taupo/d69695663">Taupo</a>
+                    </div>
+                    <div>nature, outdoors, sightseeing</div>
+                    <div>visit for : 3&nbsp;days</div>
+                </div>
+            <div class="idea" data-destination-id="49695739" data-lat="-41.28646" data-lng="174.77623" data-name="Wellington" data-photo="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/69772423_fb10153880777941777_135x90.jpg">
+                    <div>
+                        <a class="text-link" href="/new-zealand/wellington/d49695739">Wellington</a>
+                    </div>
+                    <div>museums, sightseeing, gardens</div>
+                    <div>visit for : 3&nbsp;days</div>
+                </div>
+            <div class="idea" data-destination-id="59696081" data-lat="-45.41445" data-lng="167.71805" data-name="Te Anau" data-photo="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/69813463_8237971913_135x90.jpg">
+                    <div>
+                        <a class="text-link" href="/new-zealand/te-anau/d59696081">Te Anau</a>
+                    </div>
+                    <div>nature, trails, nightlife</div>
+                    <div>visit for : 3&nbsp;days</div>
+                </div>
+            <div class="idea" data-destination-id="123422631" data-lat="-38.2667" data-lng="175.1" data-name="Waitomo Caves" data-photo="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/269824735_-905431802_135x90.jpg">
+                    <div>
+                        <a class="text-link" href="/new-zealand/waitomo-caves/d123422631">Waitomo Caves</a>
+                    </div>
+                    <div>nature, adventure, wildlife areas</div>
+                    <div>visit for : 3&nbsp;days</div>
+                </div>
+            <div class="hidden currentDes" data-destination-id="39695397" data-map-marker-color-index="1" data-lat="-36.84846" data-lng="174.76334" data-name="Auckland" data-photo="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/29762315_2681717222_135x90.jpg">
+                <div>
+                     <a class="text-link" href="/new-zealand/auckland/d39695397">Auckland</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="module-footer">
+        <div>
+            <span class="text">Visit a single location or make it a multi-city trip.</span>
+            <button class="cta-button small startmulticityplan" data-destination-id="39695397">Start a multi-city plan</button>
+        </div>
+    </div>
+</div></div>
+        <div id="progress-indicator" class="progress-indicator hidden">
+            <img class="progress-img" src="/res/images/assets/bulb.gif" alt="Creating your plan..."/>
+            <div class="progress-txt">Creating your plan...</div>
+        </div>
+    </div>
+
+            <footer class="page-footer">
+    <div class="footer-content clearfix">
+        <div class="footer-links">
+            <a href="/new-zealand/auckland/d39695397/sitemap">Places in Auckland</a></div>
+        <ul class="footer-links">
+            <li><a href="http://blog.inspirock.com/" target="_blank">Blog</a></li>
+            <li><a rel="nofollow" href="/faq">FAQ</a></li>
+            <li><a rel="nofollow" href="/feedback">Contact Us</a></li>
+                    <li><a rel="nofollow" href="/aboutus">About Us</a></li>
+                <li><a rel="nofollow" href="/termsofuse">Terms of Use</a></li>
+            <li><a rel="nofollow" href="/privacypolicy">Privacy Policy</a></li>
+            </ul>
+        <div class="clear"></div>
+        <span class="copyright">&copy; 2013 - 2016&nbsp;<a href="http://www.inspirock.com">Inspirock</a> - All rights reserved.</span>
+        <div class="clearfix">
+            <div class="translate">
+                <a href="http://aka.ms/MicrosoftTranslatorAttribution" rel="nofollow" target="_blank">
+                    <span class="sheet ms-translate"></span>
+                    <span class="translate-txt">Translations by Microsoft&reg; Translator</span>
+                </a>
+            </div>
+            </div>
+        <div class="attributions hidden clear-after">
+            <div class="cc-logo-wrap">
+                <div class="sheet cc-logo"></div>
+            </div>
+            <div class="attrib-wrap">
+                <div class="attribs"></div>
+                <div class="load-more hidden">see all<span class="fa fa-chevron-down"></span></div>
+            </div>
+        </div>
+        <div class="geo-attrib clearfix">
+                This product includes GeoLite2 data created by MaxMind, available from
+                <a href="http://www.maxmind.com" rel="nofollow" target="_blank">http://www.maxmind.com</a>
+            </div>
+        </div>
+</footer>
+</div>
+
+        <script src="https://d3739tkyb5p5eh.cloudfront.net/2.5.3/res-ext/requirejs/require.js"></script>
+        <script src="https://d3739tkyb5p5eh.cloudfront.net/2.5.3/res/js/common.js"></script>
+        <script type="text/javascript">
+            require.config({baseUrl: 'https://d3739tkyb5p5eh.cloudfront.net/2.5.3/res/js'});
+        </script>
+
+        <script src="https://d3739tkyb5p5eh.cloudfront.net/2.5.3/res/js/destinationSeoLanding.js"></script>
+
+        <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 1035570068;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+        </script>
+        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+        </script>
+        <noscript>
+        <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1035570068/?value=0&amp;guid=ON&amp;script=0"/>
+        </div>
+        </noscript>
+   </body>
+</html>

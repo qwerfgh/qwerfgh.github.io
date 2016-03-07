@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('https://dfcy2g1llb1yf.cloudfront.net/resources_version/desktop/style/live/web-fonts-https/font-awesome/fontawesome-webfont.otf?cache=220220150714');
+  src: url('https://dfcy2g1llb1yf.cloudfront.net/resources_version/desktop/style/live/web-fonts-https/font-awesome/fontawesome-webfont.eot?cache=220220150714'), 
+	   url('https://dfcy2g1llb1yf.cloudfront.net/resources_version/desktop/style/live/web-fonts-https/font-awesome/fontawesome-webfont.woff2?cache=220220150714'), 
+	   url('https://dfcy2g1llb1yf.cloudfront.net/resources_version/desktop/style/live/web-fonts-https/font-awesome/fontawesome-webfont.woff?cache=220220150714'), 
+	   url('https://dfcy2g1llb1yf.cloudfront.net/resources_version/desktop/style/live/web-fonts-https/font-awesome/fontawesome-webfont.ttf?cache=220220150714'), 
+	   url('https://dfcy2g1llb1yf.cloudfront.net/resources_version/desktop/style/live/web-fonts-https/font-awesome/fontawesome-webfont.svg?cache=220220150714');
+  font-weight: normal;
+  font-style: normal;
+}

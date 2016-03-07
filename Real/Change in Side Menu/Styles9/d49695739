@@ -1,0 +1,1186 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width" />
+        <meta name="robots" content="index,follow" />
+
+        <title>Plan Wellington trip itinerary • Things to do in Wellington Vacation</title>
+
+        <link rel="apple-touch-icon" sizes="57x57" href="/res/images/assets/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/res/images/assets/apple-touch-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/res/images/assets/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/res/images/assets/apple-touch-icon-76x76.png">
+        <link rel="icon" type="image/png" href="/res/images/assets/favicon-32x32.png" sizes="32x32">
+                <link rel="icon" type="image/png" href="/res/images/assets/favicon-96x96.png" sizes="96x96">
+                <link rel="icon" type="image/png" href="/res/images/assets/favicon-16x16.png" sizes="16x16">
+                <link rel="shortcut icon" href="/res/images/assets/favicon.ico">
+            <link rel="manifest" href="/res/images/assets/manifest.json">
+        <meta name="msapplication-TileColor" content="#000000">
+        <meta name="msapplication-config" content="/res/images/assets/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
+
+        <meta name="description" content="See & Do More in Wellington. Build your custom Wellington itinerary using our trip planner and have a great vacation." />
+        <meta name="og:title" content="Plan Wellington trip itinerary • Things to do in Wellington Vacation">
+        <meta name="og:site_name" content="Inspirock">
+        <meta name="og:image" content="http://static.inspirock.com/images/heroes/f/wellington-3.jpg">
+        <meta name="twitter:title" content="Plan Wellington trip itinerary • Things to do in Wellington Vacation">
+        <meta name="twitter:image" content="http://static.inspirock.com/images/heroes/f/wellington-3.jpg">
+        <link rel="canonical" href="http://www.inspirock.com/new-zealand/wellington/d49695739" /><link rel='stylesheet' type='text/css' href='//fonts.googleapis.com/css?family=Lato:300,400,700,900,400italic,700italic,900italic%7CMerriweather:300,300italic,400'/>
+        <link rel="stylesheet" type="text/css" href='https://d3739tkyb5p5eh.cloudfront.net/2.5.3/res/css/commoncss.css'>
+        <link rel="stylesheet" type="text/css" href='https://d3739tkyb5p5eh.cloudfront.net/2.5.3/res/css/destinationSeoLanding.css'>
+        <script type="text/javascript">
+            
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-42855545-3', {'siteSpeedSampleRate': 100, 'cookieDomain': 'auto'});
+            ga('require', 'linkid', 'linkid.js');
+            ga('set', 'dimension1', '2.5.3'); 
+            ga('set', 'dimension2', 'N/A'); 
+            ga('set', 'dimension4', 'N/A'); 
+            ga('set', 'dimension5', 'Temporary'); 
+            ga('set', 'dimension6', '56d471319a324f4dc52e02db'); 
+            ga('set', 'dimension9', 'N/A'); 
+            ga('set', '&uid', '56d471319a324f4dc52e02db'); 
+            ga('set', 'dimension11', 'N/A'); 
+            ga('set', 'dimension12', 'N/A'); 
+            window.contextPath = "";
+            window.inspirockSecureDomain = ""; 
+            window.userLoggedIn = true;
+            window.registeredUserLoggedIn = false;
+            window.userId = "56d471319a324f4dc52e02db";
+            window.facebookAppId = '404106769689776';
+            
+            function planImgError(image) {
+                image.onerror = "";
+                image.src = window.contextPath + "/res/images/assets/no-image-graphic.jpg";
+                return true;
+            }
+           
+
+            
+            window.onunload = function() {};
+        </script>
+    </head>
+    <body class="">
+        <div id="fb-root"></div>
+
+        <div id="pageWrapper" class="page-wrapper">
+            <header class="page-header" id="pageHeader">
+    <div class="header-fixer">
+        <div class="header-contents clear-after">
+            <div class="header-logo">
+                <a href="/"><span class="product-title"><span class="bold">Inspi</span><span>rock</span><span class="tm"> TM</span></span></a>
+            </div>
+            <nav class="page-nav left">
+                    <ul>
+                        </ul>
+                </nav>
+                <nav class="page-nav right">
+                    <ul>
+                        <li>
+                            <a href="/trip-planner">
+                                <i class="fa fa-plus"></i>
+                                <span>New Plan</span>
+                            </a>
+                        </li>
+                        <li id="myPlans" data-dropdown-url="/myPlansDropdown">
+                            <a href="javascript:void(0);">
+                                <i class="fa fa-chevron-down"></i>
+                                <span>My Plans</span>
+                            </a>
+                        </li>
+                        <li id="userOptions" class="hidden">
+                            <a rel="nofollow" href="javascript:void(0);">
+                                <span class="name">Profile</span>
+                                <i class="fa fa-chevron-down"></i>
+                            </a>
+                            <div class="hidden">
+                                <div id="userDropdown">
+                                    <ul>
+                                        <li class="logout-button">log out</li>
+                                    </ul>
+                                </div>
+                                <form id="logoutForm" action="/logout" method="POST"></form></div>
+                        </li>
+                        <li id="userLogin" class="">
+                            <a rel="nofollow" class="login-button" href="/login">
+                                <i class="fa fa-user"></i>
+                                <span>Log In</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+    </div>
+</header>
+<div class="page-content  clear" id="pageContent">
+                <div itemscope itemtype="http://schema.org/City">
+            <div class="hero-header">
+    <div class="hero-header-bg"></div>
+    <div class="hero-header-content">
+        <div class="hero-header-image photo-attrib" style="background-image:url('http://static.inspirock.com/images/heroes/f/wellington-3.jpg');" 
+             data-artist=""
+             data-license=""
+             data-name=""
+             data-source-url=""></div>
+        
+        <div class="hero-title-wrapper">
+            <div class="hero-title-wrapper-2">
+                <div class="hero-title-area">
+                    <h1 class="hero-title"><span itemprop='name'>Wellington</span> Trip Planner</h1>
+                    <span class="on-inspirock-text">on Inspirock</span>
+                </div>
+                <div class="line2">Created by us &middot; Customized by you</div>
+            </div>
+        </div>
+    </div>
+<!--</div>-->
+</div><div class="destination-info" data-destination-id="49695739">
+    <div class="module-header">
+        <h2>
+            <span>Let's plan a trip to </span>
+            <span class="dest-name">Wellington</span>
+        </h2>
+    </div>
+    <div class="module-content clear-after">
+        <div class="detail-header">
+            <div class="where-in-world" vocab="http://schema.org/" typeof="BreadcrumbList">
+                    <span property="itemListElement" typeof="ListItem">
+                        <a class="ordinals clickable-text homecrumb" href="/" property="item" typeof="WebPage">
+                           <span property="name">Trip Planner</span>
+                        </a>
+                        <meta property="position" content="1"/>
+                    </span>
+                    :&nbsp;
+                    <span property="itemListElement" typeof="ListItem">
+                            <a class="ordinals clickable-text" href="/south-pacific/d11673" property="item" typeof="WebPage">
+                                <span property="name">South Pacific</span>
+                            </a>
+                            <meta property="position" content="2"/>
+                        </span>
+                        &nbsp;/&nbsp;
+                    <span property="itemListElement" typeof="ListItem">
+                            <a class="ordinals clickable-text" href="/new-zealand/d59695321" property="item" typeof="WebPage">
+                                <span property="name">New Zealand</span>
+                            </a>
+                            <meta property="position" content="3"/>
+                        </span>
+                        &nbsp;/&nbsp;
+                    <span property="itemListElement" typeof="ListItem">
+                            <a class="ordinals clickable-text" href="/new-zealand/north-island/d49695359" property="item" typeof="WebPage">
+                                <span property="name">North Island</span>
+                            </a>
+                            <meta property="position" content="4"/>
+                        </span>
+                        &nbsp;/&nbsp;
+                    <span property="itemListElement" typeof="ListItem">
+                            <a class="ordinals clickable-text" href="/new-zealand/greater-wellington/d282390575" property="item" typeof="WebPage">
+                                <span property="name">Greater Wellington</span>
+                            </a>
+                            <meta property="position" content="5"/>
+                        </span>
+                        &nbsp;/&nbsp;
+                    <span>Wellington</span>
+                    <span itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
+                        <meta itemprop="latitude" content="-41.28646" />
+                        <meta itemprop="longitude" content="174.77623" />
+                    </span>
+                </div>
+            <div class="rating">
+                    <div>
+                        <span class="rating-title">Inspirock Rating: </span>
+                        <div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:84.0%;"></span>
+</div>
+</div>
+                    <span class="rating-text" itemscope itemtype="http://data-vocabulary.org/Review-aggregate"><meta itemprop="itemreviewed" content="Wellington"/><span itemprop="rating">4.2</span>/5 based on <span itemprop="count">19,000</span>+ reviews for top 30 attractions</span></div>
+            <div>
+                    <span class="cat-title">Things to do: </span>
+                    <span class="categories">&nbsp;museums, sightseeing, gardens</span>
+                </div>
+            <h3 class="tagline-manual">Harbour Capital</h3>
+            <div class="desc-wrapper">
+                <div class="desc nightstay" data-collapsed-lines="3" itemprop="description">
+                            <div>Wellington, the world's southernmost capital city and New Zealand's second most populous urban area, combines the nation's rugged history and nature with its modern and cosmopolitan present. Attractions in Wellington include a wealth of architectural styles showcased on many of the city's streets, and some of the country's best and most revered museums. As a hub of the nation's arts industry and host of a number of different festivals and events, Wellington remains a modest yet thriving capital.</div>
+                            </div>
+                        <span class="read-more hidden">read more <i class="fa fa-angle-down"></i></span>
+                        <span class="read-less hidden">read less <i class="fa fa-angle-up"></i></span>
+                    </div>
+            <div class="create-itin">Create a full itinerary - for free!</div>
+                <div class="destinations clear-after" data-max-plan-length="60">
+                    <div class="destination">
+                        <input type="text"
+                               class="domain shaded"
+                               data-id="49695739"
+                               data-label="Wellington"
+                               value="Wellington"
+                               data-coverage="USA, Europe, Asia & South Pacific"
+                               placeholder="Country, Region, or City"/>
+                        <div class="tip" data-show-text="<b>Current destinations:</b><br/><i>We are currently able to plan trips to</i><br/><b><i>USA, Europe, Asia & South Pacific.</i></b>"><i class="fa fa-question"></i></div>
+                    </div>
+                    <button class="cta-button medium start-trip-btn" data-is-valid-domain="true" data-destination-name="Wellington" data-destination-id="49695739">Start a trip</button>
+                </div>
+                </div>
+        <div class="photos">
+            <div class="slide-wrapper">
+                        <ul class="slides">
+                            <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Museum of New Zealand Te Papa Tongarewa, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/69772423_fb10153880777941777_1702x1277.jpg">
+                                            <img class="photo-attrib "
+                                                 alt="Museum of New Zealand Te Papa Tongarewa, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/69772423_fb10153880777941777_474x316.jpg"
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/69772423_fb10153880777941777_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/69772423_fb10153880777941777_474x316.jpg"
+                                                 data-pri="0"
+                                                 data-artist=""
+                                                 data-license=""
+                                                 data-name="Museum of New Zealand Te Papa Tongarewa"
+                                                 data-source-url=""/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/museum-of-new-zealand-te-papa-tongarewa/a69772423">Museum of New Zealand Te Papa Tongarewa</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Wellington Botanic Garden, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/29791195_-1748793155_1600x898.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Wellington Botanic Garden, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/29791195_-1748793155_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/29791195_-1748793155_474x316.jpg"
+                                                 data-pri="0"
+                                                 data-artist=""
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Wellington Botanic Garden"
+                                                 data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAwJwNNbHcckKfGu6jMuMAIxL9ju4EsZrOlBH4KMuLDMvNqI5deCRXRIz82HNZXtVMMh8Wux1HWeyYdHbzQ6h15HK3Aq3uqW-s2IBsix6oz2MQCbh-iM5JrOTmJIvxTNYVEhC18mXc_xJGSWg52E0gwhQOGhT4xNUlkDmP51io8uiWkhumSD79Ng"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/wellington-botanic-garden/a29791195">Wellington Botanic Garden</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="author" content="World-wide-gifts.com"/>
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Wellington Zoo, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/19772613_6941155323_3008x2000.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Wellington Zoo, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/19772613_6941155323_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/19772613_6941155323_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist="World-wide-gifts.com"
+                                                 data-license="CC by SA"
+                                                 data-name="Wellington Zoo"
+                                                 data-source-url="https://www.flickr.com/photos/worldwide-souvenirs/6941155323"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/wellington-zoo/a19772613">Wellington Zoo</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="author" content="denisbin"/>
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Wellington Museum, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/89772347_12915906913_4896x3672.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Wellington Museum, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/89772347_12915906913_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/89772347_12915906913_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist="denisbin"
+                                                 data-license="CC by ND"
+                                                 data-name="Wellington Museum"
+                                                 data-source-url="https://www.flickr.com/photos/82134796@N03/12915906913"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/wellington-museum/a89772347">Wellington Museum</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Wellington Cable Car, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/120797173_-1335553864_1600x1066.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Wellington Cable Car, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/120797173_-1335553864_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/120797173_-1335553864_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Wellington Cable Car"
+                                                 data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAFTHdJmItUeFvoIaX5W6ltoXfV3guLGSTF6tb3GH8CKDVvHVDGnqqrxaOQHywOh2w8kDpWFCmDoN8EtugpKP5NpNPx9feXelouQ6IxiQKJM7edaUTSZOTU-sBiiWuUhTPEhBB2mrTIVkixtgGpmkERESDGhQ4ROsJhHFoHa8VBQvNj4PbfanQNw"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/wellington-cable-car/a120797173">Wellington Cable Car</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Old St Paul's, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/411422079_1447340856_1600x1066.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Old St Paul's, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/411422079_1447340856_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/411422079_1447340856_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Old St Paul's"
+                                                 data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAJriWFIrIb2DoVFdvONmPiRy7IJLfRCMItqg28Mxvf-0V1vQN5SAGc1afZJAHi14kubg4fccSJ0GlsCK2ACcp1xMEscPgqJDbeAfMN8SoqqvC2VBg1gtuCtNOulFZ_JAKEhAP1ULcwcCfaGXk8qfbS2WzGhQboFGPDgoT6MJmYPahrWehDRpcXg"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/old-st-paul-s/a411422079">Old St Paul's</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="author" content="Ulrich Lange, Bochum, Germany"/>
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Parliament Buildings, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/49772499_691506392_2048x1536.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Parliament Buildings, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/49772499_691506392_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/49772499_691506392_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist="Ulrich Lange, Bochum, Germany"
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Parliament Buildings"
+                                                 data-source-url="https://upload.wikimedia.org/wikipedia/commons/7/73/Parliament_House%2C_Beehive%2C_Bowen_House%2C_Wellington.jpg"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/parliament-buildings/a49772499">Parliament Buildings</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Wellington City Libraries, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/122512493_fb10150653487514189_2048x1536.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Wellington City Libraries, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/122512493_fb10150653487514189_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/122512493_fb10150653487514189_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license=""
+                                                 data-name="Wellington City Libraries"
+                                                 data-source-url=""/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/wellington-city-libraries/a122512493">Wellington City Libraries</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="author" content="Neil Leslie"/>
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="ZEALANDIA Sanctuary, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/89771967_-1184582158_1024x608.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="ZEALANDIA Sanctuary, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/89771967_-1184582158_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/89771967_-1184582158_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist="Neil Leslie"
+                                                 data-license="CC by SA"
+                                                 data-name="ZEALANDIA Sanctuary"
+                                                 data-source-url="https://upload.wikimedia.org/wikipedia/commons/e/e3/KaroriWildlifeSanctuary.jpg"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/zealandia-sanctuary/a89771967">ZEALANDIA Sanctuary</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Staglands Wildlife Reserve, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/822511847_-1991339802_1600x1066.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Staglands Wildlife Reserve, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/822511847_-1991339802_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/822511847_-1991339802_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Staglands Wildlife Reserve"
+                                                 data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAbDscngqxI7VJQo1V0jQRg3SjhEUD5NI0JRk3KoFYFPybqwNOKh0HQKrc5yzEtmIph6Z057gfEra_KOOfrUmGz4Juvp4FO_HpwwF4Znc9vmwFpkHYfEmtl6jyaTT3XdNlEhBUpo5mrMUwQgrxZlZ6aI4yGhRAiS6Yz_-9Je7feS8vnbyRjWDIVA"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/staglands-wildlife-reserve/a822511847">Staglands Wildlife Reserve</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="author" content="Jacques Marier"/>
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Mount Kaukau, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/122508693_4424120114_1094x821.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Mount Kaukau, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/122508693_4424120114_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/122508693_4424120114_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist="Jacques Marier"
+                                                 data-license="CC by SA"
+                                                 data-name="Mount Kaukau"
+                                                 data-source-url="https://www.flickr.com/photos/jako-qc/4424120114"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/mount-kaukau/a122508693">Mount Kaukau</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="author" content="Kristina D.C. Hoeppner"/>
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Mount Victoria, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/411075139_-1946725316_5184x2916.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Mount Victoria, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/411075139_-1946725316_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/411075139_-1946725316_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist="Kristina D.C. Hoeppner"
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Mount Victoria"
+                                                 data-source-url="https://upload.wikimedia.org/wikipedia/commons/9/94/View_of_Wellington_from_Mt_Victoria_%2810%29.jpg"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/mount-victoria/a411075139">Mount Victoria</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="author" content="Akos Kokai"/>
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Otari-Wilton's Bush Native Botanic Garden, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/911443169_6709253211_4000x3000.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Otari-Wilton's Bush Native Botanic Garden, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/911443169_6709253211_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/911443169_6709253211_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist="Akos Kokai"
+                                                 data-license="CC"
+                                                 data-name="Otari-Wilton's Bush Native Botanic Garden"
+                                                 data-source-url="https://www.flickr.com/photos/on_earth/6709253211"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/otari-wiltons-bush-native-botanic-garden/a911443169">Otari-Wilton's Bush Native Botanic Garden</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Great War Exhibition, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/5304188101_fb1589408948010009_2048x1366.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Great War Exhibition, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/5304188101_fb1589408948010009_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/5304188101_fb1589408948010009_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license=""
+                                                 data-name="Great War Exhibition"
+                                                 data-source-url=""/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/great-war-exhibition/a5304188101">Great War Exhibition</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="author" content="russellstreet"/>
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Oriental Bay, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/722510365_4649303810_5616x3744.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Oriental Bay, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/722510365_4649303810_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/722510365_4649303810_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist="russellstreet"
+                                                 data-license="CC by SA"
+                                                 data-name="Oriental Bay"
+                                                 data-source-url="https://www.flickr.com/photos/russellstreet/4649303810"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/oriental-bay/a722510365">Oriental Bay</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="author" content="Phillip Capper"/>
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Scorching Bay, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/322511277_-2056650184_4288x2848.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Scorching Bay, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/322511277_-2056650184_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/322511277_-2056650184_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist="Phillip Capper"
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Scorching Bay"
+                                                 data-source-url="https://upload.wikimedia.org/wikipedia/commons/2/2b/Scorching_Bay.jpg"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/scorching-bay/a322511277">Scorching Bay</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Matiu / Somes Island, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/494136679_936815081_1600x898.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Matiu / Somes Island, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/494136679_936815081_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/494136679_936815081_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Matiu / Somes Island"
+                                                 data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAm18ZIDk8gHWh8EdzzZ9UODSfRm5T_3BNCJI4XnC1Yq6I-DzhwX1osvINRviCn3jlGgUpdTzfsgp5gvTKCQ0PsqibpG76iuyZdVgqIoxZjjVVQSeDWuxu0r5rYAcpt88EEhBKBX_bsov2uSbhXdkLSnxLGhRhPxkz_Q_yEve0Y3Nov_MFMsni_Q"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/matiu-somes-island/a494136679">Matiu / Somes Island</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <meta itemprop="author" content="Manatū Taonga"/>
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Pukeahu National War Memorial, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/221542315_7884258714_3200x2133.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Pukeahu National War Memorial, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/221542315_7884258714_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/221542315_7884258714_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist="Manatū Taonga"
+                                                 data-license="CC by ND"
+                                                 data-name="Pukeahu National War Memorial"
+                                                 data-source-url="https://www.flickr.com/photos/manatu_taonga/7884258714"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/pukeahu-national-war-memorial/a221542315">Pukeahu National War Memorial</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="City Gallery Wellington, Wellington, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/39791157_fb10151577450949620_1286x854.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="City Gallery Wellington, Wellington, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/39791157_fb10151577450949620_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/39791157_fb10151577450949620_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license=""
+                                                 data-name="City Gallery Wellington"
+                                                 data-source-url=""/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wellington/city-gallery-wellington/a39791157">City Gallery Wellington</a>
+                                    </li>
+                                <li itemprop="photo" itemscope itemtype="http://schema.org/ImageObject">
+                                        <a class="fancybox photo-attrib" data-fancybox-group="seoDestinations" data-fancybox-title="Cape Palliser Lighthouse, Wairarapa, New Zealand" rel="nofollow" href="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/f/1241429011_379063000_1600x898.jpg">
+                                            <img class="photo-attrib lazyload"
+                                                 alt="Cape Palliser Lighthouse, Wairarapa, New Zealand"
+                                                 itemprop="contentUrl"
+                                                 src=""
+                                                 content="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/1241429011_379063000_474x316.jpg"
+                                                 data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/2/1241429011_379063000_474x316.jpg"
+                                                 data-pri="3"
+                                                 data-artist=""
+                                                 data-license="No Copyright Restrictions"
+                                                 data-name="Cape Palliser Lighthouse"
+                                                 data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAC_KgnHo1cjtAMDGNJsBwxjjMV5LKzFCIMBoSs3Pa-Qtq-wrNQs4v2t3TtrqLX1pN0uZVkMpRxE3s0eTCNHuoZHtZqZLV3s9ZbbtsuTtyu-jcwIzUYDT4FJeDl5EyiwGpEhD3Hz_FM1_HRQ1ObhbIDxgtGhTEzdIb9KMPoFfYe4F51_K6zl_DdA"/>
+                                        </a>
+                                        <a itemprop="name" class="attraction-name" rel="nofollow" href="/new-zealand/wairarapa/cape-palliser-lighthouse/a1241429011">Cape Palliser Lighthouse</a>
+                                    </li>
+                                </ul>
+                    </div>
+                    <div class="prev disabled">
+                            <span class="fa fa-angle-left"></span>
+                        </div>
+                        <div class="next">
+                            <span class="fa fa-angle-right"></span>
+                        </div>
+                    </div>
+    </div>
+</div><div class="things-to-do">
+    <div class="module-header">
+        <h2>
+            <span>Things to do in </span>
+            <span class="dest-name">Wellington</span>
+        </h2>
+    </div>
+    <div class="activities">
+            <div class="left-img"></div>
+            <h4>Tell us what you like to do and we'll make you a FREE custom plan:</h4>
+            <div class="interests clear-after">
+                <div class="column5"><input type="checkbox" id="activities-interestCulture" class="shaded" name="culture" value="true"/><label for="activities-interestCulture">Culture</label></div>
+                <div class="column5"><input type="checkbox" id="activities-interestOutdoor" class="shaded" name="outdoors" value="true"/><label for="activities-interestOutdoor">Outdoors</label></div>
+                <div class="column5"><input type="checkbox" id="activities-interestUnwind" class="shaded" name="unwind" value="true"/><label for="activities-interestUnwind">Relaxing</label></div>
+                <div class="column5"><input type="checkbox" id="activities-category10" class="shaded" name="categoryGroupNames" value="Beaches"/><label for="activities-category10">Beaches</label></div>
+                <div class="column5"><input type="checkbox" id="activities-category26" class="shaded" name="categoryGroupNames" value="Historic Sites"/><label for="activities-category26">Historic Sites</label></div>
+                <div class="column5"><input type="checkbox" id="activities-category16" class="shaded" name="categoryGroupNames" value="Museums"/><label for="activities-category16">Museums</label></div>
+                <div class="column5"><input type="checkbox" id="activities-category4" class="shaded" name="categoryGroupNames" value="Shopping"/><label for="activities-category4">Shopping</label></div>
+                </div>
+            <div class="start-plan">
+                <button class="cta-button small start-plan-btn" data-is-valid-domain="true" data-destination-name="Wellington" data-destination-id="49695739">START A PLAN</button>  
+            </div>
+        </div>
+    <div class="pages">
+        <div class="page">
+                        <span class="category">Nature</span>
+                        <a class="clickable-text" href="/new-zealand/wellington/mount-kaukau/a122508693">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/122508693_4424120114_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="Jacques Marier"
+                                             data-license="CC by SA"
+                                             data-name="Mount Kaukau"
+                                             data-source-url="https://www.flickr.com/photos/jako-qc/4424120114">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Mount Kaukau</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:98.00000000000001%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/wellington/otari-wiltons-bush-native-botanic-garden/a911443169">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/911443169_6709253211_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="Akos Kokai"
+                                             data-license="CC"
+                                             data-name="Otari-Wilton's Bush Native Botanic Garden"
+                                             data-source-url="https://www.flickr.com/photos/on_earth/6709253211">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Otari-Wilton's Bush Native Botanic Garden</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:96.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/wellington/putangirua-pinnacles/a7134758945">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/7134758945_204677356_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license="No Copyright Restrictions"
+                                             data-name="Putangirua Pinnacles"
+                                             data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAymxmVLOVzEWGjI1RT4FVfiTRrskROsbeJM0mhGmQijKa3lXtmq0wbQTY_we7o-a5DS3DABR1uFK2UTRQQjJqzSW64DiLbJmradsqvv8XjDQhLTUBccuwH-zxVcERC4gqEhDdP7y2BiHMGnW2ET_40D-bGhTLIOM_K2eLm0c6dB9w5wGgIpdSlg">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Putangirua Pinnacles</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:96.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        </div> 
+                <div class="page">
+                        <span class="category">Outdoors</span>
+                        <a class="clickable-text" href="/new-zealand/wellington/oriental-bay/a722510365">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/722510365_4649303810_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="russellstreet"
+                                             data-license="CC by SA"
+                                             data-name="Oriental Bay"
+                                             data-source-url="https://www.flickr.com/photos/russellstreet/4649303810">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Oriental Bay</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:91.99999999999999%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/wellington/scorching-bay/a322511277">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/322511277_-2056650184_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="Phillip Capper"
+                                             data-license="No Copyright Restrictions"
+                                             data-name="Scorching Bay"
+                                             data-source-url="https://upload.wikimedia.org/wikipedia/commons/2/2b/Scorching_Bay.jpg">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Scorching Bay</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:91.99999999999999%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/wellington/days-bay/a111422231">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/111422231_329942498_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="Phillip Capper"
+                                             data-license="No Copyright Restrictions"
+                                             data-name="Days Bay"
+                                             data-source-url="https://upload.wikimedia.org/wikipedia/commons/a/a0/Days_Bay%2C_Wellington%2C_New_Zealand.jpg">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Days Bay</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:91.99999999999999%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        </div> 
+                <div class="page">
+                        <span class="category">Kid Friendly Attractions</span>
+                        <a class="clickable-text" href="/new-zealand/wellington/staglands-wildlife-reserve/a822511847">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/822511847_-1991339802_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license="No Copyright Restrictions"
+                                             data-name="Staglands Wildlife Reserve"
+                                             data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAbDscngqxI7VJQo1V0jQRg3SjhEUD5NI0JRk3KoFYFPybqwNOKh0HQKrc5yzEtmIph6Z057gfEra_KOOfrUmGz4Juvp4FO_HpwwF4Znc9vmwFpkHYfEmtl6jyaTT3XdNlEhBUpo5mrMUwQgrxZlZ6aI4yGhRAiS6Yz_-9Je7feS8vnbyRjWDIVA">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Staglands Wildlife Reserve</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:91.99999999999999%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/wellington/museum-of-new-zealand-te-papa-tongarewa/a69772423">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/69772423_fb10153880777941777_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license=""
+                                             data-name="Museum of New Zealand Te Papa Tongarewa"
+                                             data-source-url="">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Museum of New Zealand Te Papa Tongarewa</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:90.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">1&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/wellington/zealandia-sanctuary/a89771967">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/89771967_-1184582158_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="Neil Leslie"
+                                             data-license="CC by SA"
+                                             data-name="ZEALANDIA Sanctuary"
+                                             data-source-url="https://upload.wikimedia.org/wikipedia/commons/e/e3/KaroriWildlifeSanctuary.jpg">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">ZEALANDIA Sanctuary</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:90.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">3&#8203;h</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        </div> 
+                <div class="clear"></div>
+                <div class="page">
+                        <span class="category">Sightseeing</span>
+                        <a class="clickable-text" href="/new-zealand/wairarapa/cape-palliser-lighthouse/a1241429011">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/1241429011_379063000_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license="No Copyright Restrictions"
+                                             data-name="Cape Palliser Lighthouse"
+                                             data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAC_KgnHo1cjtAMDGNJsBwxjjMV5LKzFCIMBoSs3Pa-Qtq-wrNQs4v2t3TtrqLX1pN0uZVkMpRxE3s0eTCNHuoZHtZqZLV3s9ZbbtsuTtyu-jcwIzUYDT4FJeDl5EyiwGpEhD3Hz_FM1_HRQ1ObhbIDxgtGhTEzdIb9KMPoFfYe4F51_K6zl_DdA">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Cape Palliser Lighthouse</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:98.00000000000001%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">1&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/wellington/pukeahu-national-war-memorial/a221542315">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/221542315_7884258714_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="Manatū Taonga"
+                                             data-license="CC by ND"
+                                             data-name="Pukeahu National War Memorial"
+                                             data-source-url="https://www.flickr.com/photos/manatu_taonga/7884258714">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Pukeahu National War Memorial</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:96.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">1&#8203;h</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/wellington/mount-victoria/a411075139">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/411075139_-1946725316_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="Kristina D.C. Hoeppner"
+                                             data-license="No Copyright Restrictions"
+                                             data-name="Mount Victoria"
+                                             data-source-url="https://upload.wikimedia.org/wikipedia/commons/9/94/View_of_Wellington_from_Mt_Victoria_%2810%29.jpg">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Mount Victoria</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:94.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">1&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        </div> 
+                <div class="page">
+                        <span class="category">Hidden Gems</span>
+                        <a class="clickable-text" href="/new-zealand/wellington/harbourside-market-wellington/a291741995">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/291741995_-1820684382_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license="No Copyright Restrictions"
+                                             data-name="Harbourside Market Wellington"
+                                             data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAAK30ufpgFPXPmhgbMD4q-YnHZkCX8aDsM8VTQPf7rhY8teeuFjxzx7SIpyc4OQLG6p-sXuSQp9ILO4CfzrAWhKfmqvTw4OYE31NEjNsLoVwYLRWLwV_WxXG3ssIAoOZ08EhBwBf7znjzzcImHyjvp7xZfGhTDqVycCKG7T3gTfx59YQinwi-ixw">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Harbourside Market Wellington</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:94.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/wellington/government-house/a222507135">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/222507135_1583038193_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license="No Copyright Restrictions"
+                                             data-name="Government House"
+                                             data-source-url="https://maps.googleapis.com/maps/api/place/photo?key=AIzaSyBK_J6Xk23-HNsaMUOCmk0tHnqTIe3Un8w&sensor=false&maxwidth=1600&photoreference=CmRdAAAADr1HlgXVobcrDrfLS2sr1mvfmJoH9NZqLY3Vwl652GGm5rJpYEUG6YeXNxSU6NjoiFgjp3oDS20S3nDtm5MFZwymeLviD1u9TfRH2qxk0ukGfSQYIawb7p_wzUDhBkECEhB1uvWMWXn1KYY7_UOuIVRmGhTt60hBnRa4NQL4MU0admQ-Ser63A">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Government House</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:94.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/wellington/island-bay/a822507667">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/822507667_fb692956900829936_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license=""
+                                             data-name="Island Bay"
+                                             data-source-url="">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Island Bay</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:90.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        </div> 
+                <div class="page">
+                        <span class="category">Beaches</span>
+                        <a class="clickable-text" href="/new-zealand/northland-region/taupo-bay/a8141821967">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/8141821967_2205024801_135x90.jpg"
+                                             data-pri="2"
+                                             data-artist="Sids1"
+                                             data-license="CC"
+                                             data-name="Taupo Bay"
+                                             data-source-url="https://www.flickr.com/photos/sids1/2205024801">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Taupo Bay</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:88.00000000000001%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/wellington/lyall-bay/a722508465">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="/res/images/assets/no-image-graphic.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license=""
+                                             data-name="Lyall Bay"
+                                             data-source-url="">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Lyall Bay</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:84.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        <a class="clickable-text" href="/new-zealand/wellington/princess-bay/a322510897">
+                            <div class="nearbyAttr-tile">
+                                <div class="nearbyAttr-image photo-attrib lazyload"
+                                             data-url="/res/images/assets/no-image-graphic.jpg"
+                                             data-pri="2"
+                                             data-artist=""
+                                             data-license=""
+                                             data-name="Princess Bay"
+                                             data-source-url="">
+                                        </div>
+                                    <div class="nearbyAttr-text">
+                                    <div class="nearbyAttr-name">Princess Bay</div>
+                                    <div class="plan-schedule">
+                                        <div class="ins-rating"><div class="sheet rating-bar-small">
+    <span class="sheet rating-fill" style="width:84.0%;"></span>
+</div>
+</div> 
+                                        <div class="spend">Visit for <span class="duration">2&#8203;h 30&#8203;m</span></div>
+                                    </div>
+                                    </div>
+                            </div>
+                            </a>
+                        </div> 
+                </div>
+    <div class="module-footer">
+            <div>
+                <span class="text">Don't Miss a Thing. See & Do More.</span>
+                <button class="cta-button small start-plan-activities" data-destination-id="49695739">START A PLAN</button>
+            </div>
+        </div>
+    </div>
+<div class="where-to-stay">
+                            <div class="avg-rate bg-stripe">
+                            <span class="txt">
+                                        <span>BEST PRICE GUARANTEED</span>
+                                        <br/>
+                                        <span>EASY CANCELLATION</span>
+                                        <br/>
+                                        <span class="powered">Powered by <span class="sheet booking-logo"></span></span>
+                                    </span>
+                                </div>
+                            <div class="stay-description">
+                                <h4>Where to stay in Wellington</h4>
+                                <div class="desc" data-collapsed-lines="3">As an established, modern capital city, Wellington offers accommodations of numerous shapes and sizes. Get a harbor view at a luxury hotel by the waterfront, or enjoy simple rental rooms at one of the many backpacker hostels. Cheaper accommodation lies outside the downtown area, with motels, campsites, and RV parks providing options for those on smaller budgets, and travelers wanting to get out of town and into the rolling, green hills. Wellington benefits from a wide range of transport and a very efficient infrastructure, so you'll have access to attractions no matter where you stay.</div>
+                                <span class="read-more hidden">read more <i class="fa fa-angle-down"></i></span>
+                                <span class="read-less hidden">read less <i class="fa fa-angle-up"></i></span>
+                                <div class="booking-area" data-country-code="NZ" data-name="Wellington" data-destination-name="Wellington" data-country-name="New Zealand"
+                                     data-booking-url="http://hotel.inspirock.com/searchresults.html?aid=808711&dest_id=-1521348&dest_type=city&si=ci&label=56d471319a324f4dc52e02db"
+                                     data-booking-checkin-date-format="[&checkin_monthday=]DD[&checkin_year_month=]YYYY[-]MM"
+                                     data-booking-checkout-date-format="[&checkout_monthday=]DD[&checkout_year_month=]YYYY[-]MM"
+                                     data-booking-nights-format="">
+                                    <div class="col">
+                                        <div class="title">Checking In:</div>
+                                        <input name="startDateWhereTostay" type="text" class="startDateWhereTostay startdatepicker shaded" placeholder="MM/DD/YYYY" readonly="readonly"/>
+                                        <span class="sheet calendar-icon orange"></span>
+                                    </div>
+                                    <div class="col">
+                                        <div class="title">Checking Out:</div>
+                                        <input name="endDateWhereTostay" type="text" class="endDateWhereTostay enddatepicker shaded" placeholder="MM/DD/YYYY" readonly="readonly" />
+                                        <span class="sheet calendar-icon orange"></span>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <button class="cta-button small find-hotel">Find a Hotel</button>
+                                </div>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    <div class="vacation-ideas nightstay">
+    <div class="module-header">
+        <span>Extend your </span>
+        <span class="dest-name">Holiday</span>
+    </div>
+    <div class="module-content clear-after mapdiv">
+        <div class="large-map" data-single-color="true"></div>
+        <div class="right-col">
+            <div class="title">Make it a multi-city trip:</div>
+            <div class="idea" data-destination-id="79696005" data-lat="-45.031162" data-lng="168.66264" data-name="Queenstown" data-photo="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/246780775_3273775515_135x90.jpg">
+                    <div>
+                        <a class="text-link" href="/new-zealand/queenstown/d79696005">Queenstown</a>
+                    </div>
+                    <div>adventure, fun & games, winter sports</div>
+                    <div>visit for : 3&nbsp;days</div>
+                </div>
+            <div class="idea" data-destination-id="89695587" data-lat="-38.13685" data-lng="176.24974" data-name="Rotorua" data-photo="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/39809777_-1574667251_135x90.jpg">
+                    <div>
+                        <a class="text-link" href="/new-zealand/rotorua/d89695587">Rotorua</a>
+                    </div>
+                    <div>nature, adventure, historic sites</div>
+                    <div>visit for : 3&nbsp;days</div>
+                </div>
+            <div class="idea" data-destination-id="39695397" data-lat="-36.84846" data-lng="174.76334" data-name="Auckland" data-photo="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/29762315_2681717222_135x90.jpg">
+                    <div>
+                        <a class="text-link" href="/new-zealand/auckland/d39695397">Auckland</a>
+                    </div>
+                    <div>nature, sightseeing, museums</div>
+                    <div>visit for : 3&nbsp;days</div>
+                </div>
+            <div class="idea" data-destination-id="69695663" data-lat="-38.68569" data-lng="176.0702" data-name="Taupo" data-photo="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/211421775_-983360936_135x90.jpg">
+                    <div>
+                        <a class="text-link" href="/new-zealand/taupo/d69695663">Taupo</a>
+                    </div>
+                    <div>nature, outdoors, sightseeing</div>
+                    <div>visit for : 3&nbsp;days</div>
+                </div>
+            <div class="idea" data-destination-id="59696081" data-lat="-45.41445" data-lng="167.71805" data-name="Te Anau" data-photo="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/69813463_8237971913_135x90.jpg">
+                    <div>
+                        <a class="text-link" href="/new-zealand/te-anau/d59696081">Te Anau</a>
+                    </div>
+                    <div>nature, trails, nightlife</div>
+                    <div>visit for : 3&nbsp;days</div>
+                </div>
+            <div class="idea" data-destination-id="123422631" data-lat="-38.2667" data-lng="175.1" data-name="Waitomo Caves" data-photo="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/269824735_-905431802_135x90.jpg">
+                    <div>
+                        <a class="text-link" href="/new-zealand/waitomo-caves/d123422631">Waitomo Caves</a>
+                    </div>
+                    <div>nature, adventure, wildlife areas</div>
+                    <div>visit for : 3&nbsp;days</div>
+                </div>
+            <div class="hidden currentDes" data-destination-id="49695739" data-map-marker-color-index="1" data-lat="-41.28646" data-lng="174.77623" data-name="Wellington" data-photo="http://inspirock.s3.amazonaws.com/ds9/photos/New Zealand/0/69772423_fb10153880777941777_135x90.jpg">
+                <div>
+                     <a class="text-link" href="/new-zealand/wellington/d49695739">Wellington</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="module-footer">
+        <div>
+            <span class="text">Visit a single location or make it a multi-city trip.</span>
+            <button class="cta-button small startmulticityplan" data-destination-id="49695739">Start a multi-city plan</button>
+        </div>
+    </div>
+</div></div>
+        <div id="progress-indicator" class="progress-indicator hidden">
+            <img class="progress-img" src="/res/images/assets/bulb.gif" alt="Creating your plan..."/>
+            <div class="progress-txt">Creating your plan...</div>
+        </div>
+    </div>
+
+            <footer class="page-footer">
+    <div class="footer-content clearfix">
+        <div class="footer-links">
+            <a href="/new-zealand/wellington/d49695739/sitemap">Places in Wellington</a></div>
+        <ul class="footer-links">
+            <li><a href="http://blog.inspirock.com/" target="_blank">Blog</a></li>
+            <li><a rel="nofollow" href="/faq">FAQ</a></li>
+            <li><a rel="nofollow" href="/feedback">Contact Us</a></li>
+                    <li><a rel="nofollow" href="/aboutus">About Us</a></li>
+                <li><a rel="nofollow" href="/termsofuse">Terms of Use</a></li>
+            <li><a rel="nofollow" href="/privacypolicy">Privacy Policy</a></li>
+            </ul>
+        <div class="clear"></div>
+        <span class="copyright">&copy; 2013 - 2016&nbsp;<a href="http://www.inspirock.com">Inspirock</a> - All rights reserved.</span>
+        <div class="clearfix">
+            <div class="translate">
+                <a href="http://aka.ms/MicrosoftTranslatorAttribution" rel="nofollow" target="_blank">
+                    <span class="sheet ms-translate"></span>
+                    <span class="translate-txt">Translations by Microsoft&reg; Translator</span>
+                </a>
+            </div>
+            </div>
+        <div class="attributions hidden clear-after">
+            <div class="cc-logo-wrap">
+                <div class="sheet cc-logo"></div>
+            </div>
+            <div class="attrib-wrap">
+                <div class="attribs"></div>
+                <div class="load-more hidden">see all<span class="fa fa-chevron-down"></span></div>
+            </div>
+        </div>
+        <div class="geo-attrib clearfix">
+                This product includes GeoLite2 data created by MaxMind, available from
+                <a href="http://www.maxmind.com" rel="nofollow" target="_blank">http://www.maxmind.com</a>
+            </div>
+        </div>
+</footer>
+</div>
+
+        <script src="https://d3739tkyb5p5eh.cloudfront.net/2.5.3/res-ext/requirejs/require.js"></script>
+        <script src="https://d3739tkyb5p5eh.cloudfront.net/2.5.3/res/js/common.js"></script>
+        <script type="text/javascript">
+            require.config({baseUrl: 'https://d3739tkyb5p5eh.cloudfront.net/2.5.3/res/js'});
+        </script>
+
+        <script src="https://d3739tkyb5p5eh.cloudfront.net/2.5.3/res/js/destinationSeoLanding.js"></script>
+
+        <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 1035570068;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+        </script>
+        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+        </script>
+        <noscript>
+        <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1035570068/?value=0&amp;guid=ON&amp;script=0"/>
+        </div>
+        </noscript>
+   </body>
+</html>
