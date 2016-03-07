@@ -1,6 +1,6 @@
 /* Side Menu */
 
- .menu-btn{width:80px;height:80px;border-radius:50%;cursor:pointer;position:absolute;left:0px;top:-10px;z-index:800;-webkit-transition:all 0.3s ease 0s;transition:all 0.3s ease 0s}
+ .menu-btn{width:80px;height:80px;border-radius:50%;cursor:pointer;position:absolute;left:0px;top:-13px;z-index:800;-webkit-transition:all 0.3s ease 0s;transition:all 0.3s ease 0s}
  .menu-btn:hover{-webkit-transform:scale(0.94);-ms-transform:scale(0.94);transform:scale(0.94)}
  .menu-btn span{position:absolute;left:23px;width:34px;height:4px;background-color:#fff;display:inline-block;-webkit-transition:all 0.3s ease 0s;transition:all 0.3s ease 0s}
  .menu-btn span:nth-of-type(1){top:26px}
