@@ -132,8 +132,132 @@
 	<!-- Plan/Search Button-->
 	<link rel="stylesheet" href="./Search_Button/main.min.css" type="text/css">
 
+	<!-- CSS for Reviews Section -->
+	<style>
+	#carousel {
+	  position: relative;
+	  width: 100%;
+	  left:10px;
+	  }
+
+	#slides {
+	  overflow: hidden;
+	  position: relative;
+	  width: 90%;
+	  height: 250px;
+	  left:20px;
+	}
+
+	#slides ul {
+	  list-style: none;
+	  width: 100%;
+	  height: 250px;
+	  margin: 0;
+	  padding: 0;
+	  position: relative;
+	}
+
+	#slides li {
+	  width: 100%;
+	  height: 250px;
+	  float: left;
+	  text-align: center;
+	  position: relative;
+	  font-family: lato, sans-serif;
+	}
+
+	/* Styling for prev and next buttons */
+
+	.btn-bar {
+	  display: block;
+	  position: absolute;
+	  top: 53px;
+	  left:-100px;
+	}
+
+	#button1 {
+	  padding: 0 0 5px 0;
+	  float: left;
+	}
+
+	#button1 a {
+	  display: block;
+	  font-size: 50px;
+	  float: left;
+	  outline: 0;
+	  color: #b14943;
+	  display: block;
+	  padding: 9px 0 0 50px;
+	  width: 355px;
+	}
+
+	#button2 {
+	  padding: 0 -400px 5px 0;
+	  float: right;
+	}
+
+	#button2 a {
+	  display: block;
+	  font-size: 50px;
+	  float: right;
+	  outline: 0;
+	  color: #b14943;
+	  text-decoration: none;
+	  display: block;
+	  padding: 9px 0 0 850px;
+
+	  width: 755px;
+	}
+
+	a#prev:hover,
+	a#next:hover {
+	  color: #FFF;
+	  text-shadow: .5px 0px #b14943;
+	}
+
+	.quote-phrase,
+	.quote-author {
+	  font-family: sans-serif;
+	  font-weight: 300;
+	  display: table-cell;
+	  vertical-align: middle;
+	  padding: 5px 20px;
+	  font-family: 'Lato', Calibri, Arial, sans-serif;
+	}
+
+	.quote-phrase {
+	  height: 200px;
+	  font-size: 24px;
+	  color: #FFF;
+	  font-style: italic;
+	  text-shadow: .5px 0px #b14943;
+	}
+
+	.quote-marks {
+	  font-size: 30px;
+	  padding: 0 3px 3px;
+	  position: inherit;
+	}
+
+	.quote-author {
+	  font-style: normal;
+	  font-size: 20px;
+	  color: #b14943;
+	  font-weight: 400;
+	  height: 30px;
+	}
+
+	.quoteContainer,
+	.authorContainer {
+	  display: table;
+	  width: 100%;
+	}
+	</style>
+
+	</head>
+
 	
-  </head>
+	
 <body class="">
 
 <!--  Upper Menu Bar -->	
@@ -311,41 +435,144 @@ $(document).scroll(function() {
 		</div>
 	</div>
 	
-	
+	<br><br><br><br>
 	<!--  REVIEWS -->
 	<div class="homepage-content">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
 					<h2 class="how-its-work">
-						<span>Why travelin1000?</span>
+						<span>Reviews</span>
 					</h2>
 
+				<div id="carousel">
+					<div class="btn-bar">
+						<div id="buttons">
+							<div id="button1"><a id="prev" href="#"><</a></div>
+							<div id="button2"><a id="next" href="#">></a></div>
+						</div>
+					</div>
+				<div id="slides">
+					<ul>
+					  <li class="slide">
+						<div class="quoteContainer">
+						  <p class="quote-phrase"><span class="quote-marks">"</span> I was literally BLOWN AWAY by Company A's work! They went above and beyond all of our expectations with design, usability. and branding, I will reccommend them to everyone I know!<span class="quote-marks">"</span> </p>
+						</div>
+                        <div class="starRating">
+						  <span><img alt="Star-rated-yellow" src="./Images/Why travelin1000/star-rating.png"></span>
+						  <span><img alt="Star-rated-yellow" src="./Images/Why travelin1000/star-rating.png"></span>
+						  <span><img alt="Star-rated-yellow" src="./Images/Why travelin1000/star-rating.png"></span>
+						  <span><img alt="Star-rated-yellow" src="./Images/Why travelin1000/star-rating.png"></span>
+						  <span><img alt="Star-rated-yellow" src="./Images/Why travelin1000/star-rating.png"></span>
+						</div>
 
-					<br><br>
-					<div class="img">
-						<img alt="World" src="./Images/Why travelin1000/World.png"> 
-						<img alt="World" src="./Images/Why travelin1000/Phone.png"> 
-					<div class="desc">Travel anywhere in the world with 1000$ in your pocket  </div>
-					<div class="desc2">24*7 support from our partners</div>
-					</div>
+						<div class="authorContainer">
+						  <p class="quote-author">John Doe // Local Business Owner</p>
+						</div>
+					  </li>
+					  <li class="slide">
+						<div class="quoteContainer">
+						  <p class="quote-phrase"><span class="quote-marks">"</span> I could not stop staring! Company A's Web Solutions are by far the most elegant solutions, you can't beat their quality and attention to detail! <span class="quote-marks">"</span> </p>
+						</div>
+                        <div class="starRating">
+						  <span><img alt="Star-rated-yellow" src="./Images/Why travelin1000/star-rating.png"></span>
+						  <span><img alt="Star-rated-yellow" src="./Images/Why travelin1000/star-rating.png"></span>
+						  <span><img alt="Star-rated-yellow" src="./Images/Why travelin1000/star-rating.png"></span>
+						  <span><img alt="Star-rated-yellow" src="./Images/Why travelin1000/star-rating.png"></span>
+						</div>
+
+						<div class="authorContainer">
+						  <p class="quote-author">Andy Fakename // CEO: Andy's Camping Supplies</p>
+						</div>
+					  </li>
+					  <li class="slide">
+						<div class="quoteContainer">
+						  <p class="quote-phrase"><span class="quote-marks">"</span>Carl Fakeguy, was the most helpful designer I've ever hired. He listened to my ideas and advised against things that could negatively affect my CEO. Company A is by far the most generous and helpful company, 5/5!<span class="quote-marks">"</span> </p>
+						</div>
+                        <div class="starRating">
+						  <span><img alt="Star-rated-yellow" src="./Images/Why travelin1000/star-rating-three-and-half.png"></span>
+						</div>						
+						<div class="authorContainer">
+						  <p class="quote-author">Janice Falsename</p>
+						</div>
+					  </li>
+					</ul>
+				  </div>
+				  </div>
+				<script>
+				$(document).ready(function () {
+					//rotation speed and timer
+					var speed = 5000;
 					
-					<br><br><br>
-					<div class="img2">
-						<img alt="Unmatched_Destination_Expertise" src="./Images/Why travelin1000/Unmatched_Destination_Expertise.jpg"> 
-						<div class="desc3">Unmatched destination expertise  </div>
-					</div>
-					<div class="img3">
-						<img alt="Customize_Trips" src="./Images/Why travelin1000/Customize_Trips.jpg"> 
-						<div class="desc4">Customize and personalize your trips</div>
-					</div>
-					<br><br><br>
-					<div class="img4">
-						<img alt="Ease_Of_Planning" src="./Images/Why travelin1000/Ease_of_Planning.png"> 
-						<img alt="Verified_Ratings" src="./Images/Why travelin1000/Verified_Rating.jpg"> 
-					<div class="desc5">Ease of Planning  </div>
-					<div class="desc6">Verified Ratings and Reviews</div>
-					</div>
+					var run = setInterval(rotate, speed);
+					var slides = $('.slide');
+					var container = $('#slides ul');
+					var elm = container.find(':first-child').prop("tagName");
+					var item_width = container.width();
+					var previous = 'prev'; //id of previous button
+					var next = 'next'; //id of next button
+					slides.width(item_width); //set the slides to the correct pixel width
+					container.parent().width(item_width);
+					container.width(slides.length * item_width); //set the slides container to the correct total width
+					container.find(elm + ':first').before(container.find(elm + ':last'));
+					resetSlides();
+					
+					
+					//if user clicked on prev button
+					
+					$('#buttons a').click(function (e) {
+						//slide the item
+						
+						if (container.is(':animated')) {
+							return false;
+						}
+						if (e.target.id == previous) {
+							container.stop().animate({
+								'left': 0
+							}, 1500, function () {
+								container.find(elm + ':first').before(container.find(elm + ':last'));
+								resetSlides();
+							});
+						}
+						
+						if (e.target.id == next) {
+							container.stop().animate({
+								'left': item_width * -2
+							}, 1500, function () {
+								container.find(elm + ':last').after(container.find(elm + ':first'));
+								resetSlides();
+							});
+						}
+						
+						//cancel the link behavior            
+						return false;
+						
+					});
+					
+					//if mouse hover, pause the auto rotation, otherwise rotate it    
+					container.parent().mouseenter(function () {
+						clearInterval(run);
+					}).mouseleave(function () {
+						run = setInterval(rotate, speed);
+					});
+					
+					
+					function resetSlides() {
+						//and adjust the container so current is in the frame
+						container.css({
+							'left': -1 * item_width
+						});
+					}
+					
+				});
+				//a simple function to click next link
+				//a timer will call this function, and the rotation will begin
+
+				function rotate() {
+					$('#next').click();
+				}
+				</script>
+				<!-- End of Reviews -->
 				</div>
 			</div>
 		</div>
