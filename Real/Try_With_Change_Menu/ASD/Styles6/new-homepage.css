@@ -6,13 +6,17 @@ a:hover {
 
 }
 
+
+
 /* Why travelin1000 Pics */
-/*div.img img {
-    text-align: center;
-	}
+div.img img {
+	padding-left:290px;
+}
 div.desc {
     padding: 15px;
+	width:450px;
     text-align: center;
+	padding-left:250px;
 	position:absolute;
 }
 
@@ -64,14 +68,12 @@ div.desc6 {
     text-align: center;
 	padding-left:620px;
 	position:absolute;
-} */
+}
 
 .tranparent-bg1 {
 height:10px;
 }
 
-
-/* Blinking Cursor at Homepage Center */
 .typed-cursor{
     opacity: 1;
     -webkit-animation: blink 0.7s infinite;
@@ -92,13 +94,5 @@ height:10px;
     0% { opacity:1; }
     50% { opacity:0; }
     100% { opacity:1; }
-}
-
-/*  CSS of WHY TRAVEL IN 1000 */
-
-
-.feature {
-	text-align:center;
-	padding-left:90px;
 }
 
