@@ -74,22 +74,11 @@
         var nowTemp = new Date();
         var now = new Date(nowTemp.getFullYear(), nowTemp.getMonth(), nowTemp.getDate(), 0, 0, 0, 0);
 
-        var checkin = $('#dpd1').datepicker({
-          onRender: function(date) {
-            return date.valueOf() < now.valueOf() ? 'disabled' : '';
-          }
-        }).on('changeDate', function(ev) {
-          if (ev.date.valueOf() > checkout.date.valueOf()) {
-            var newDate = new Date(ev.date)
-            newDate.setDate(newDate.getDate() + 1);
-            checkout.setValue(newDate);
-          }
-          checkin.hide();
-          $('#dpd2')[0].focus();
-        }).data('datepicker');
         var checkout = $('#dpd2').datepicker({
+		  viewMode: 'months',
+		  minViewMode: 'months',
           onRender: function(date) {
-            return date.valueOf() <= checkin.date.valueOf() ? 'disabled' : '';
+            return date.valueOf() <= now.valueOf() ? 'disabled' : '';
           }
         }).on('changeDate', function(ev) {
           checkout.hide();
@@ -376,7 +365,6 @@ $(document).scroll(function() {
 			<div class="search-n-popular-cities form-group">
           		<div id="searchfield">
 					<form><input type="text" name="currency" class="biginput" id="autocomplete" placeholder="Destination">
-					<input type="text" class="span2" value="" id="dpd1" placeholder="Check in">
 					<input type="text" class="span2" value="" id="dpd2" placeholder="Check out">
 					</form>
 					<!-- Search Button -->
