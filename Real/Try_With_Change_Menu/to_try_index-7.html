@@ -17,7 +17,7 @@
   <link type="text/css" rel="stylesheet" media="all" href="./Styles6/footer.css">
   <link type="text/css" rel="stylesheet" media="all" href="./Styles6/style.css">
   <link type="text/css" rel="stylesheet" media="all" href="./Styles6/new-homepage.css">
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"> 
+  <link rel="stylesheet" href="./Styles6/bootstrap.min.css"> 
 
   <script type="text/javascript" src="./Styles6/jquery.js"></script>
   <style type="text/css"></style>
@@ -139,8 +139,7 @@
 	  position: relative;
 	  width: 100%;
 	  left:0px;
-	  background:#d3d3d3;
-	  }
+	  	  }
 
 	#slides {
 	  overflow: hidden;
@@ -165,7 +164,6 @@
 	  float: left;
 	  text-align: center;
 	  position: relative;
-	  font-family: lato, sans-serif;
 	}
 
 	/* Styling for prev and next buttons */
@@ -230,11 +228,11 @@
 
 	.quote-phrase {
 	  height: 200px;
-	  font-size: 24px;
-	  color: #FFF;
-	  font-style: italic;
-	  text-shadow: .5px 0px #b14943;
-	}
+	  font-size: 19px;
+	  color: #000;
+ 	  font-family: lato, sans-serif;
+	  font-style: italic;	
+	  }
 
 	.quote-marks {
 	  font-size: 30px;
@@ -296,19 +294,31 @@ $(document).scroll(function() {
 			</div>
 
 	    	<div class="collapse navbar-collapse menu-middle-section" id="bs-example-navbar-collapse-1">
-				      		<ul class="nav navbar-nav ">
+				    <div class="SAD">
+					<ul class="nav navbar-nav ">
 					<li>
-						<a href="https://www.triphobo.com/create-your-itinerary" title="Create Trip Plan">travelin1000</a>
+						<a href="https://www.triphobo.com/create-your-itinerary" title="Create Trip Plan">travel</a>
 					</li>
 	      		</ul>
+				</div>
       				        
 	    	</div><!-- /.navbar-collapse -->
 
-				<div class="without-login">
-					<ul>
-						<li><a href="https://www.triphobo.com/user/signUp" class="btn1 btn-pink">Destination Finder</a></li>
-					</ul>
-				</div>
+					<div class="header contrast1 " >
+	
+									<nav class="menu1">
+										<ul>
+											<li class="menu_item menu_item-cta cta cta-animating menu_item-active menu_item-cta">
+											   <a href="">
+													<span class="icon icon-animating"><span class="circle left"></span><span class="circle right"></span>
+													<span class="type"><img alt="" src="./Search_Button/icon-arrow.png"> </span></span>
+													<span class="cta_copy">Destination Finder</span>
+											   </a>
+											</li>
+										</ul>
+									</nav>
+					</div>
+									
 				
 				<!-- Side Menu -->
 				<div class="menu-btn">
@@ -330,6 +340,33 @@ $(document).scroll(function() {
 
 </header>
 
+<!--<script>
+var $logo1 = $('.btn1.btn-pink:hover');
+var $logo2 = $('.btn1.btn-pink');
+$(document).scroll(function() {
+    if($(this).scrollTop() > 640) {
+		$logo1.css('color', '#ff0');
+		$logo2.css('color', '#000');
+	} else{
+		$logo1.css('color', '#ff0');
+		$logo2.css('color', '#fff');
+	}
+});
+
+</script>  -->
+<!--<script>
+var $logo2 = $('.menu--open');
+$(document).scroll(function() {
+    if($(this).scrollTop() > 640) {
+		$logo2.css('background-color', '#f00');
+		$logo1.css('background-color', '#000');
+	} else{
+		$logo2.css('background-color', '#f00');
+		$logo1.css('background-color', '#fff');
+	}
+});
+</script>  -->
+
 <div class="new-homepage">
 	<div class="home-page-bg">
 		<div class="select-city-section-bg">
@@ -337,7 +374,6 @@ $(document).scroll(function() {
                 	 <div class="row"> 
 		<div class="places-search-wrapper">
 			<div class="search-n-popular-cities form-group">
-			
           		<div id="searchfield">
 					<form><input type="text" name="currency" class="biginput" id="autocomplete" placeholder="Destination">
 					<input type="text" class="span2" value="" id="dpd1" placeholder="Check in">
@@ -383,14 +419,16 @@ $(document).scroll(function() {
 						<div class="city-add-section">
 							<div class="city-add-section-top">
 								<h1><div class="wrap">
-									<h1> Travel In 1000 !!! </h1>
+									<h1> Travel  !!! </h1>
 									<div class="type-wrap">
 									<div id="typed-strings">
-									<p>Experience the Best Destinations<strong> travelin1000</strong></p>
-									<p>It <em>types</em> out sentences.</p>
-									<p>And then deletes them.</p>
-									<p>Try it out!</p>
-									<p>Travel In 1000 !!</p>
+									                
+
+									<p>"You don’t have to be rich to travel well" <span style="color:blue; font-weight:bold; font-size: 15pt;"> -- Eugene Fodor </span></p>
+									<p>"Traveling – it leaves you speechless, then turns you into a storyteller" <span style="color:blue;font-weight:bold; font-size: 15pt"> -- Ibn Battuta </span></p>
+									<p>"Travel makes one modest. You see what a tiny place you occupy in the world"  <span style="color:blue;font-weight:bold; font-size: 15pt"> -- Gustave Flaubert </span></p>
+									<!--<p>Try it out!</p>
+									<p>Travel In 1000 !!</p> -->
 									</div>
 									<span id="typed" style="white-space:pre;"></span>
 									</div>
@@ -463,7 +501,7 @@ $(document).scroll(function() {
 					</div>
 					
 										
-					<br><br><br>
+					<br><br><br><br><br><br><br><br><br>
 				</div>
 			</div>
 		</div>
@@ -474,7 +512,6 @@ $(document).scroll(function() {
 	<script src="./WHYTRAVEL/scripts.js"></script>
 
 	
-	<br><br><br><br>
 	<!--  REVIEWS -->
 	<div class="homepage-content">
 		<div class="container">
@@ -495,7 +532,7 @@ $(document).scroll(function() {
 					<ul>
 					  <li class="slide">
 						<div class="quoteContainer">
-						  <p class="quote-phrase"><span class="quote-marks">"</span> I was literally BLOWN AWAY by Company A's work! They went above and beyond all of our expectations with design, usability. and branding, I will reccommend them to everyone I know!<span class="quote-marks">"</span> </p>
+						  <p class="quote-phrase"><span class="quote-marks">"</span>I was literally BLOWN AWAY by Company A's work! They went above and beyond all of our expectations with design, usability. and branding, I will reccommend them to everyone I know!<span class="quote-marks">"</span> </p>
 						</div>
                         <div class="starRating">
 						  <span><img alt="Star-rated-yellow" src="./Images/Why travelin1000/star-rating.png"></span>
@@ -638,7 +675,13 @@ $(document).scroll(function() {
 });
 </script>  -->
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
 <div id="footer" class="new-footer">
       <div class="foot-wrapper">
 
