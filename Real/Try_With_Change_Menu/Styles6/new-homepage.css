@@ -109,6 +109,12 @@ height:10px;
 	padding-left:100px;
 }
 
-.container3{
-	background:#ff0;
+.bgColor{
+padding-top:100px;
+}
+.homepage-content5{
+	background:#f0f0f0;
+	position:absolute;
+	width:1330px;
+
 }
