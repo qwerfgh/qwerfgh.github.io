@@ -95,10 +95,6 @@ height:10px;
 }
 
 /*  CSS of WHY TRAVEL IN 1000 */
-.feature {
-	padding-left:90px;
-}
-
 .textWhyUs{
 	padding-left: 580px;
 	position:absolute;
@@ -110,11 +106,10 @@ height:10px;
 }
 
 .bgColor{
-padding-top:100px;
+	padding-top:500px;
+
 }
 .homepage-content5{
 	background:#f0f0f0;
-	position:absolute;
-	width:1330px;
-
+	height:460px;	
 }
