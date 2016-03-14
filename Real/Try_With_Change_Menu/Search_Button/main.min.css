@@ -49,10 +49,9 @@ font-size:1.4rem;
 .contrast6 .menu_item-cta.menu_item-active a,.contrast6 .menu_item.menu_item-cta a:hover,.contrast6 .menu_item.menu_item-cta a:focus{ background: rgba(255, 0, 0, 1); }
 .contrast6 .menu_item.menu_item-cta a:hover,.contrast6 .menu_item.menu_item-cta a:focus{background:#F56600;color:#fff}
 .contrast6 .menu_item-cta .icon-animating .circle{border-color:#fff}
-
 .menu3{
 padding-top:320px;
-padding-left:530px;
+padding-left:570px;
 position:absolute;
 height:100%;
 font-size:1.4rem;
