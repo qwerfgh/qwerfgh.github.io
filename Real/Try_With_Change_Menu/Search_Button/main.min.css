@@ -33,8 +33,25 @@ position:absolute;
 height:100%;
 font-size:1.4rem;
 }
-
 .menu_item-cta2 a{font-size:1.5rem;border:1px solid #fff;-moz-border-radius:1px;-webkit-border-radius:1px;border-radius:1px}.menu_item a:hover,.menu_item a:focus{opacity:.6}
+
+/* Plan */
+.contrast4 .menu_item-cta.menu_item-active a,.contrast4 .menu_item.menu_item-cta a:hover,.contrast4 .menu_item.menu_item-cta a:focus{ background: rgba(255, 0, 0, 1); }
+.contrast4 .menu_item.menu_item-cta a:hover,.contrast4 .menu_item.menu_item-cta a:focus{background:#F56600;color:#fff}
+.contrast4 .menu_item-cta .icon-animating .circle{border-color:#fff}
+.menu4{
+position:absolute;
+font-size:1.4rem;
+line-height:0.9;
+padding-top:5px;
+background:#f00;
+
+}
+.contrast4{
+padding-left:550px;
+position:absolute;
+}
+
 /* Help Me Choose A Destination */
 .contrast1 .menu_item-cta.menu_item-active a,.contrast1 .menu_item.menu_item-cta a:hover,.contrast1 .menu_item.menu_item-cta a:focus{ background: rgba(0, 0, 0, 0.5); }
 .contrast1 .menu_item.menu_item-cta a:hover,.contrast1 .menu_item.menu_item-cta a:focus{background:#F56600;color:#fff}
@@ -43,7 +60,6 @@ font-size:1.4rem;
 /* For My Trips */
 .menu_item-cta3 a{font-size:1.4rem;border:3px solid #fff;-moz-border-radius:1px;-webkit-border-radius:1px;border-radius:1px;}.menu_item2 a:hover,.menu_item2 a:focus{opacity:1}
 .menu_item2.menu_item-cta3 a:hover, .menu_item2.menu_item-cta3 a:focus{background: rgba(0, 0, 0, 0.2);color:#fff;}
-.contrast4 .menu_item-cta3 .icon-animating .circle{border-color:#fff}
 
 /* Why Travel */
 .contrast6 .menu_item-cta.menu_item-active a,.contrast6 .menu_item.menu_item-cta a:hover,.contrast6 .menu_item.menu_item-cta a:focus{ background: rgba(255, 0, 0, 1); }
