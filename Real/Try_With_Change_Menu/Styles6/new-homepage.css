@@ -107,7 +107,8 @@ height:10px;
 	padding-top:500px;
 }
 .homepage-content5{
-	background:#f0f0f0;
+	/*background:#f0f0f0;*/
+	background-image:url('../Styles6/homepage-3.jpg');
 	height:460px;	
 }
 /* END of CSS of WHY TRAVEL IN 1000 */

@@ -33,19 +33,19 @@ position:absolute;
 height:100%;
 font-size:1.4rem;
 }
-.menu_item-cta2 a{font-size:1.5rem;border:1px solid #fff;-moz-border-radius:1px;-webkit-border-radius:1px;border-radius:1px}.menu_item a:hover,.menu_item a:focus{opacity:.6}
+.menu_item-cta2 a{font-size:1.5rem;border:1px solid #fff;-moz-border-radius:1px;-webkit-border-radius:1px;border-radius:1px}
 
 /* Plan */
-.contrast4 .menu_item-cta.menu_item-active a,.contrast4 .menu_item.menu_item-cta a:hover,.contrast4 .menu_item.menu_item-cta a:focus{ background: rgba(255, 0, 0, 1); }
-.contrast4 .menu_item.menu_item-cta a:hover,.contrast4 .menu_item.menu_item-cta a:focus{background:#F56600;color:#fff}
-.contrast4 .menu_item-cta .icon-animating .circle{border-color:#fff}
+.menu_item-cta3 a{font-size:1.5rem;border:0px solid #fff;-moz-border-radius:1px;-webkit-border-radius:1px;border-radius:1px}
+.contrast4 .menu_item-cta3.menu_item-active a,.contrast4 .menu_item.menu_item-cta3 a:hover,.contrast4 .menu_item.menu_item-cta3 a:focus{ background: rgba(255, 0, 0, 1); }
+.contrast4 .menu_item.menu_item-cta3 a:hover,.contrast4 .menu_item.menu_item-cta3 a:focus{background:#F56600;color:#fff}
+.contrast4 .menu_item-cta3 .icon-animating .circle{border-color:#fff}
 .menu4{
 position:absolute;
-font-size:1.4rem;
 line-height:0.9;
 padding-top:5px;
 background:#f00;
-
+width:10px;
 }
 .contrast4{
 padding-left:550px;

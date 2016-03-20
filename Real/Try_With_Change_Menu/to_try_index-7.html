@@ -357,20 +357,20 @@ $(document).scroll(function() {
 		<div class="places-search-wrapper">
 			<div class="search-n-popular-cities form-group">
 				<div id="searchfield">
-					<div class="contrast4">
-						<div class="menu4">
-							<ul>
-								<!--<li class="menu_item  menu_item-cta2">-->
-								<li class="menu_item menu_item-cta2 cta cta-animating menu_item-active menu_item-cta"> 
-								   <a href="">
+					<div class="contrast4"> 
+						<div class="menu4"> 
+							<div class="menu_item menu_item-cta3 cta cta-animating menu_item-active menu_item-cta">
+								<!-- <div class="menu_item menu_item-cta3 cta cta-animating menu_item-active menu_item-cta"> </div>-->
+								<!--<div class="menu_item menu_item-cta2 cta cta-animating menu_item-active menu_item-ctas"> </div>-->
+								<!--<div class="menu_item menu_item-cta2 cta cta-animating menu_item-active menu_item-cta"> </div>-->
+								<a href="">
 									<span class="icon icon-animating"><span class="circle left"></span><span class="circle right"></span>
-									<span class="type"><img alt="" src="./Search_Button/icon-arrow.png"> </span></span>
+									<span class="type"><img alt="" src="./Search_Button/icon-arrow.png"> </span></span> 
 									<span class="cta_copy3">Plan</span>
-								   </a>
-								</li>
-							</ul>
+								 </a> 
+							</div>
 						</div>
-					</div>
+					</div> 
 					
 					<form>
 					<input type="text" name="currency" class="biginput" id="autocomplete" placeholder="Destination"><input type="text" class="span2" value="" id="dpd2" placeholder="Check out">
@@ -471,6 +471,19 @@ $(document).scroll(function() {
 				</div>
 			</div>
 		</div>
+<script>
+var $logo3 = $('.tranparent-bg');
+$("#searchfield").click(function() {
+    $logo3.css({opacity:"0.4"}); 
+});
+</script>
+<script>
+var $logo4 = $('.tranparent-bg');
+$(".tranparent-bg").click(function() {
+    $logo4.css({opacity:"1"}); 
+});
+</script>
+	
 <br>
 
 	<!--  About US -->
