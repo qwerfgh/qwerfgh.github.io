@@ -248,10 +248,12 @@
 	<link href="./WHYTRAVEL/animate.css" rel="stylesheet">
 
 	<!-- Moving BackgroundImage -->
-	<script type="text/javascript" src="./BackgroundImageMoving/jquery.chocolate.js"></script>
+	<script type="text/javascript" src="./BackgroundImageMoving/backgroundTransition.js"></script>
+    <link rel="stylesheet" type="text/css" href="./BackgroundImageMoving/backgroundTransition.css" />
 
-	
-	
+	<!-- Footer -->
+	<link href="./Footer/footer.css" media="screen" rel="stylesheet" type="text/css">
+
 	</head>
 
 	
@@ -268,7 +270,11 @@
 <script>
 var $logo = $('.navbar-default');
 $(document).scroll(function() {
-    $logo.css({opacity: $(this).scrollTop() > 370? "0.7":"0"}); 
+	if($(this).scrollTop() > 370) {
+		$logo.css("opacity", 0.7);
+	} else {
+		$logo.css("opacity", $(window).scrollTop() / 370 - 0.3);	
+	}
 });
 </script>
 
@@ -436,16 +442,36 @@ $(document).scroll(function() {
 			<div class="video-section">
 				<!--<img alt="" src="./Styles6/homepage-3.jpg">  -->
 			</div>
-				<!-- Moving Background Image -->
-				<script>
+			
+			<!-- Moving Background Image -->
+			<div class="backgroundTransition">
+			</div>
+				  <script type="text/javascript">
+					  $(document).ready(function(){
+						  $('.backgroundTransition').backgroundTransition({
+							  backgrounds:[
+								  { src: 'https://unsplash.it/1920/1400?image=933' },
+								  { src: 'https://unsplash.it/1920/1400?image=233' },
+								  { src: 'https://unsplash.it/1920/1400?image=333' },
+								  { src: 'https://unsplash.it/1920/1400?image=133' },
+								  { src: 'https://unsplash.it/1920/1400?image=533' },
+								  { src: 'https://unsplash.it/1920/1400?image=433' }
+							  ],
+							  transitionDelay: 3,
+							  animationSpeed: 800
+						  });
+					  });
+				  </script>
+
+				<!--<script>
 					$(function() {
 						$('.video-section').chocolate({
-						images		: ['https://unsplash.it/1920/1280?image=1042', 'https://unsplash.it/1920/1280?image=1040','https://unsplash.it/1920/1280?image=1038'],
+						images		: ['https://unsplash.it/1920/1280?image=1042', 'https://unsplash.it/1920/1280?image=1040','https://unsplash.it/1920/1280?image=1038'], 
 						interval	: 4000,
 						speed		: 2000,
 					});
 				});
-				</script>
+				</script> -->
 	
 			<div class="container">
 				<div class="row">
@@ -735,7 +761,80 @@ $(".tranparent-bg").click(function() {
 
 
 
+ <footer>
+  <div class="footer-main">
+	<div class="left-footer-content">
+    <div class="footer-logo"><a class="sprite-traveltriangle" href="http://traveltriangle.com/#"></a></div>  <!--footer-logo-->
+      <div class="footer-left-link-container">
+    	  <div class="section-1">
+        	<ul>
+        	  <li>Company</li>
+            <li><a href="http://traveltriangle.com/aboutus">About</a></li>
+            <li><a href="http://traveltriangle.com/blog">Blog</a></li>
+            <li><a href="http://traveltriangle.com/online-leads-for-travel-agents">Agents</a></li>
+            <li><a href="http://traveltriangle.com/career">Careers</a></li>
+            <li><a href="http://traveltriangle.com/tnc">Terms and Conditions</a></li>
+            <li><a href="http://traveltriangle.com/privacy">Privacy Policy</a></li>
+            <li>
+            </li>
+          </ul>
+            <div class="clear"></div>
+            <div class="footer-social">
+              <div>
+                <a href="http://www.facebook.com/traveltriangle/" class="facebook sprite-traveltriangle"></a>
+              </div>
+              <div>
+                <a href="https://twitter.com/traveltriangle" class="twitter sprite-traveltriangle"></a>
+              </div>
+              <div>
+                <a href="https://plus.google.com/+traveltriangle" class="googleplus sprite-traveltriangle"></a>
+              </div>
+            </div> <!--footer-social-->
+        </div>  <!-- section-1-->
+        <div class="section-2">
+          <ul>
+            <li>Explore</li>
+            <li><a href="http://traveltriangle.com/All-Places">Destinations</a></li>
+            <li><a href="http://traveltriangle.com/blog">Inspirations</a></li>
+            <li><a href="http://traveltriangle.com/testimonials">Stories</a></li>
+          </ul>
+          <ul>
+            <li>Help</li>
+            <li><a href="http://traveltriangle.com/FAQs">FAQ</a></li>
+            <li><a href="http://traveltriangle.com/cancellation">Cancellation</a></li>
+          </ul>
+          <div class="clear"></div>
+          <div class="footer-payments">
+          	<div class="visa"><span class="sprite-traveltriangle"></span></div>
+              <div class="mastercard"><span class="sprite-traveltriangle"></span></div>
+              <div class="paypal"><span class="sprite-traveltriangle"></span>
+              </div>
+          </div>  <!--footer-payments-->
+        </div>   <!--section-2-->
+        <div class="clear"></div>
+    </div> <!-- footer-left-link-container-->
+    <div class="clear"></div>
+    </div>  <!--left-footer-content-->
+    <div class="right-footer-content">
+    	<div class="world-map sprite-traveltriangle"></div>   <!--world-map-->
+        <p>TravelTriangle is an online platform connecting worldwide travelers with multiple trusted local &amp; expert travel agents. Travelers can request or choose, personalize and book the best travel packages crafted as per their tastes and needs.
+        </p>
+          <div class="customer-suppot2">
+            <h6><span class="sprite-traveltriangle"></span>
+              <a href="mailto:customercare@traveltriangle.com">customercare@traveltriangle.com</a>
+            </h6>
+            <h5>
+            <span class="sprite-traveltriangle"></span>+91 120 4545612</h5>
+          </div>  <!--customer-suppot-->
+      <div class="clear"></div>
+    </div>  <!--right-footer-content-->
+    <div class="clear"></div>
+    </div>   <!--footer-main-->
 
+
+ </footer>
+ 
+<div class="copyright-container">All Rights Reserved ©  2015</div>
 
 
 <div id="footer" class="new-footer">
