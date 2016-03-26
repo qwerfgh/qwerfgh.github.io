@@ -73,11 +73,22 @@
         var nowTemp = new Date();
         var now = new Date(nowTemp.getFullYear(), nowTemp.getMonth(), nowTemp.getDate(), 0, 0, 0, 0);
 
-        var checkout = $('#dpd2').datepicker({
-		  viewMode: 'months',
-		  minViewMode: 'months',
+        var checkin = $('#dpd1').datepicker({
           onRender: function(date) {
-            return date.valueOf() <= now.valueOf() ? 'disabled' : '';
+            return date.valueOf() < now.valueOf() ? 'disabled' : '';
+          }
+        }).on('changeDate', function(ev) {
+          if (ev.date.valueOf() > checkout.date.valueOf()) {
+            var newDate = new Date(ev.date)
+            newDate.setDate(newDate.getDate() + 1);
+            checkout.setValue(newDate);
+          }
+          checkin.hide();
+          $('#dpd2')[0].focus();
+        }).data('datepicker');
+        var checkout = $('#dpd2').datepicker({
+          onRender: function(date) {
+            return date.valueOf() <= checkin.date.valueOf() ? 'disabled' : '';
           }
         }).on('changeDate', function(ev) {
           checkout.hide();
@@ -254,6 +265,66 @@
 	<!-- Footer -->
 	<link href="./Footer/footer.css" media="screen" rel="stylesheet" type="text/css">
 
+	
+	<!-- Bottom Arrow-->
+	<style> 
+	.scroll {
+		position:relative;
+		font-size:1.3em;
+		margin-top:20px;
+		display:inline-block;
+		height:100px;
+	}
+	.scroll:hover {
+		text-decoration:none;
+	}
+
+	.scroll:after {
+		content:'';
+		width:40px;
+		height:40px;
+		position:absolute;
+
+		margin:auto;
+		top:10px;
+		right:0;
+
+		left:0;
+		-webkit-animation:3s arrow infinite ease;
+		animation:3s arrow infinite ease;
+	}
+
+	.scroll:after {
+		border-right:2px solid #FFF;
+		border-bottom:2px solid #FFF;
+		-ms-transform:rotate(45deg);
+		-webkit-transform:rotate(45deg);
+		transform:rotate(45deg);
+		
+	}
+
+	@-webkit-keyframes arrow {
+		0%,100% {
+			top:10px;
+		}
+		50% {
+			top:30px;
+		}
+	}
+	@keyframes arrow {
+		0%,100% {
+			top:10px;
+		}
+		50% {
+			top:30px;
+		}
+	}	  
+	  .classOfArrow{
+	  position:absolute;
+	  padding-left:320px;
+	  padding-top:100px;}
+	</style> 
+	
 	</head>
 
 	
@@ -365,10 +436,10 @@ $(document).scroll(function() {
 						<div id="searchfield">
 					
 					<form>
-					<input type="text" name="currency" class="biginput" id="autocomplete" placeholder="Destination"><input type="text" class="span2" value="" id="dpd2" placeholder="Check out"><span class="button-room"><a class="left">Plan</a></span>
+					<input type="text" name="currency" class="biginput" id="autocomplete" placeholder="Destination"><input type="text" class="span2" value="" id="dpd1" placeholder="Check In"><input type="text" class="span2" value="" id="dpd2" placeholder="Check Out"><span class="button-room"><a class="left">Plan</a></span>
 					</form>			
 					
-				       <div align="center" class="or-round" id="or_round_id">or</div>
+				       <div class="Or-Round"><div class="or-round">or</div></div>
 
 					   <!--<div class="header contrast1 " >
 	
@@ -383,16 +454,42 @@ $(document).scroll(function() {
 											</li>
 										</ul>
 									</nav>
-						</div> -->
-						<span class="button-room"><a class="left">Help Me Choose a Destination</a></span>
+						</div> --><br><br><br><br><br>
+						<div class="HelpMeChoose"><span class="button-room"><a href="www.facebook.com" class="left">Help Me Choose a Destination</a></span></div>
 				</div><!-- @end #searchfield -->
+				<div class="classOfArrow">
+					<a href="#homepage-content4" class="scroll"></a>
+				</div>
 			</div>
-		
 		</div>
 		</div>              
-
 	</div> 
 	</div>  
+
+
+<!-- Bottom Arrow Animation -->
+<script>$(window).scroll(function () {
+    var topWindow = $(window).scrollTop();
+    var topWindow = topWindow * 1.5;
+    var windowHeight = $(window).height();
+    var position = topWindow / windowHeight;
+    position = 1 - position;
+    $('.arrow-wrap').css('opacity', position);
+});
+$(function () {
+    $('a[href*=#]:not([href=#])').click(function () {
+        if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+            if (target.length) {
+                $('html,body').animate({ scrollTop: target.offset().top }, 1000);
+                return false;
+            }
+        }
+    });
+});
+//# sourceURL=pen.js
+</script>
 
 		<div class="tranparent-bg">
 
@@ -431,7 +528,6 @@ $(document).scroll(function() {
 					  { src: './Styles6/homepage-4.jpg' },
 					  { src: './Styles6/homepage-5.jpg' },
 					  { src: './Styles6/homepage-6.jpg' },
-					  { src: './Styles6/homepage-7.jpg' },
 					  ],
 					  transitionDelay: 3,
 					  animationSpeed: 800
@@ -454,14 +550,15 @@ $(".tranparent-bg").click(function() {
 });
 </script> -->
 	
-<br>
 
 	<!--  About US -->
-	<div class="homepage-content4">
+	<div class="homepage-content4" id="homepage-content4">
             <div class="container">
                 <div class="row">
                     <div class="getStarted">
+					<br><br><br>
 						<div class="feature wow fadeInDown" style="visibility: hidden; ">
+								<h6> HOLD YOUR NERVES</h6>
 								<h2>Get Started</h2>
 								<!--<img alt="" src="./Styles6/homepage-3.jpg">-->
 
