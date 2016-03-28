@@ -133,7 +133,12 @@
 
 	
 	<!-- CSS for Reviews Section -->
-	<style>
+	<script src="./Review/aw.Testimonials.js"></script>
+	<script src="./Review/aw.js"></script> 
+	<link rel="stylesheet" href="./Review/aw.main.css">
+
+	
+	<!--<style>
 	#carousel {
 	  position: relative;
 	  width: 100%;
@@ -252,8 +257,8 @@
 	  display: table;
 	  width: 100%;
 	}
-	</style>
-	
+	</style>  -->
+	<!--End of Reviews -->
 	
 	<!-- Increasing Scroll Speed and Animating WHY Travel in 1000 Icons -->
 	<link href="./WHYTRAVEL/animate.css" rel="stylesheet">
@@ -324,7 +329,8 @@
 	  padding-left:320px;
 	  padding-top:100px;}
 	</style> 
-	
+	<!-- End of Bottom Arrow -->
+		
 	</head>
 
 	
@@ -672,14 +678,54 @@ $(".tranparent-bg").click(function() {
 						<span>Testimonials</span>
 					</h2>
 
-				<div id="carousel">
+						<div id="testimonial-slider">
+							<div class="testimonial-slide" style="display: none;">
+								"The wilderness was spectacular, the leadership perfect."
+							</div><!-- end .testimonial-slide -->
+							
+							<div class="testimonial-slide" style="display: none;">
+								"I am just finishing my tenth trip with you guys. As always, the trip was more than I expected and I had a great time.  See you next year!"
+							</div><!-- end .testimonial-slide -->
+
+							<div class="testimonial-slide">
+								"Of all outfitters with whom we have worked (and that is quite a number), you were by far the most organized and responsive."
+							</div><!-- end .testimonial-slide -->
+
+							<div class="testimonial-slide" style="display: none;">
+								"That feeling of wide open wonder, the possibilities for nearly limitless wandering, and the image of those proud caribou...that will stay with me a long time"
+							</div><!-- end .testimonial-slide -->
+
+							<div class="testimonial-slide" style="display: none;">
+								"Our guide was an encyclopedia on legs. He was always willing and ready to teach, to talk, to listen, to do another hike, or to lie low in camp if we were beat. He truly gave us the trip we wanted!"
+							</div><!-- end .testimonial-slide -->
+
+						</div><!-- end #testimonial-slider -->
+						<br><br>
+						<div id="testimonial-nav">
+
+							<a href="javascript:Testimonials.previous();" id="prev" class="testimonial-btn trans-bg"></a>
+							<a href="javascript:Testimonials.next();;" id="next" class="testimonial-btn trans-bg"></a>
+
+							<a href="javascript:;" class="client" data-client="&lt;b&gt;Bill&lt;/b&gt; - Kongakut Rafting"><img src="./Review/client1.jpg" alt="client"></a>
+							<a href="javascript:;" class="client" data-client="&lt;b&gt;Glenn&lt;/b&gt; - Gates of the Arctic Backpack"><img src="./Review/client4.jpg" alt="client"></a>
+							<a href="javascript:;" class="client active" data-client="&lt;b&gt;Eileen&lt;/b&gt; - Canning River"><img src="./Review/client5.jpg" alt="client"></a>
+							<a href="javascript:;" class="client" data-client="&lt;b&gt;Christine&lt;/b&gt; - Noatak River Canoe"><img src="./Review/client2.jpg" alt="client"></a>
+							<a href="javascript:;" class="client" data-client="&lt;b&gt;Brent&lt;/b&gt; - High Peaks Backpack"><img src="./Review/client3.jpg" alt="client"></a>
+
+						</div><!-- end #testimonial-nav -->
+
+						<div id="testimonial-name"><b>Eileen</b> - Canning River</div>
+
+						<br><br>
+				
+				<!--<div id="carousel">
 					<div class="btn-bar">
 						<div id="buttons">
 							<div id="button1"><a id="prev" href="#"><</a></div>
 							<div id="button2"><a id="next" href="#">></a></div>
 						</div>
 					</div>
-				<div id="slides">
+					<div id="slides">
 					<ul>
 					  <li class="slide">
 						<div class="quoteContainer">
@@ -725,7 +771,7 @@ $(".tranparent-bg").click(function() {
 					  </li>
 					</ul>
 				  </div>
-				  </div>
+				</div>  
 				<script>
 				$(document).ready(function () {
 					//rotation speed and timer
@@ -798,7 +844,7 @@ $(".tranparent-bg").click(function() {
 				function rotate() {
 					$('#next').click();
 				}
-				</script>
+				</script> -->
 				
 				
 				<!-- End of Reviews -->
